@@ -23,7 +23,7 @@ contentTwoTitle = "What Are the 'Units' in Statistical Learning?"
 
 contentOneBody = "Psychological research often compartmentalizes different domains of knowledge (for example, semantic versus syntactic knowledge). In our lab, we try to draw attention to the potential learning boosts that come from integrating knowledge across domains."
 
-contentTwoBody = "We know that children rapidly learn statistical dependencies in their environment. In order to formalize theories of statistical learning, we need to establish how children come to identify the units over which they are tracking statistics. Because once certain units become established, they bias future learning, due to those units (and not others) being the objects of attention. Understanding this phenomenon will help explain many puzzles in acquisition."
+contentTwoBody = "Children rapidly learn statistical dependencies in their environment. In order to formalize theories of statistical learning, we need to establish how children come to identify the units over which they are tracking statistics. Because once certain units become established, they bias future learning, due to those units (and not others) being the objects of attention. Understanding this phenomenon will help explain many puzzles in acquisition."
 
 [params.footer]
 email = "info@philhuebner.com"
