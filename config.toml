@@ -1,0 +1,71 @@
+baseurl = "/"
+author = "Philip Huebner"
+title = "L&L Lab"
+languageCode = "en-us"
+theme = "foundation-theme"
+enableRobotsTXT = true
+SectionPagesMenu = ["main", "social"]
+publishDir = "/home/ph/lab_website_static"
+
+[params.meta]
+description = "UIUC Learning & Language Lab"
+keywords = "SRN, Jon Willits, Jessica Montag, Philip Huebner, neural network, language acquisition, UIUC"
+
+[params.hero]
+herotitle = "🆄🅸🆄🅲 🅻🅴🅰🆁🅽🅸🅽🅶 & 🅻🅰🅽🅶🆄🅰🅶🅴 🅻🅰🅱"
+herodiscription = ""
+btnblue = "For Researchers"
+btngreen = "For Parents"
+
+[params.main]
+contentOneTitle = "How do Meaning and Structure interact?"
+contentTwoTitle = "What Are the 'Units' in Statistical Learning?"
+
+contentOneBody = "Psychological research often compartmentalizes different domains of knowledge (for example, semantic versus syntactic knowledge). In our lab, we try to draw attention to the potential learning boosts that come from integrating knowledge across domains."
+
+contentTwoBody = "We know that children rapidly learn statistical dependencies in their environment. In order to formalize theories of statistical learning, we need to establish how children come to identify the units over which they are tracking statistics. Because once certain units become established, they bias future learning, due to those units (and not others) being the objects of attention. Understanding this phenomenon will help explain many puzzles in acquisition."
+
+[params.footer]
+email = "info@philhuebner.com"
+address = "Champaign, IL"
+
+[[menu.main]]
+name = "About"
+url = "/about"
+
+[[menu.main]]
+name = "Topics"
+url = "/research"
+
+[[menu.main]]
+name = "Publications"
+url = "/publications"
+
+[[menu.main]]
+name = "Members"
+url = "/members"
+
+[[menu.main]]
+name = "Participate"
+url = "/participate"
+
+[[menu.main]]
+name = "Join"
+url = "/join"
+
+[[menu.social]]
+name = "Facebook"
+url = "http://facebook.com"
+
+[[menu.social]]
+name = "Twitter"
+url = "http://twitter.com"
+
+[[menu.social]]
+name = "Instagram"
+url = "http://instagram.com"
+
+[[menu.social]]
+name = "Github"
+url = "https://github.com/UIUCLearningLanguageLab"
+

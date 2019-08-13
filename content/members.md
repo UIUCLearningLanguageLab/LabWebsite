@@ -1,0 +1,81 @@
++++
+title = "Members"
+layout = "single-para"
++++
+
+## Principal Investigators
+
+
+### Dr. Jessica L. Montag
+
+__Email:__ jmontag@illinois.edu
+
+__Website:__ http://languagestats.com/jessicamontag/
+	
+
+Jessica Montag studies how language abilities emerge with experience across the lifespan, including language comprehension, production, and reading. Dr. Montag uses varied methods and measures, including comprehension and production experiments in adults and children, compilation and analyses of text and speech corpora, and advanced quantitative methods.
+	
+
+### Dr. Jon A. Willits
+
+
+__Email:__ jwillits@illinois.edu
+
+__Website:__ http://languagestats.com/jonwillits/
+	
+
+Jon Willits studies language and learning in infants, children, adults, and machines. His research uses computational, neurobiological, experimental, and naturalistic methods to better understand how people and machines learn, represent, and use languages and other forms of complex knowledge, especially word meanings and semantic knowledge.
+		
+---
+
+## Graduate Students
+
+### Philip Huebner
+
+<img src="../img/phil.jpg" alt="Emily" width="200"/>
+
+__Email:__ huebner3@illinois.edu
+
+__Github:__ http://github.com/phueb
+
+__ResearchGate:__ http://researchgate.net/profile/Philip_Huebner
+	
+
+Philip Huebner studies computational models of language and knowledge acquisition.
+	
+
+### Andrew Flores
+
+__Email:__ azf2@illinois.edu
+	
+
+Andrew Flores studies vocabulary and semantic development in infants and toddlers.
+	
+
+### Lin Khern Chia
+
+__Email:__ lachia2@illinois.edu
+	
+
+Lin Khern Chia studies semantic knowledge and semantic representations. 
+
+### Emily Mech
+
+<img src="../img/emily.jpg" alt="Emily" width="200"/>
+
+__Email:__ enmech2@illinois.edu
+
+__Github:__ http://github.com/emilymech
+
+__ResearchGate:__ http://researchgate.net/profile/Emily_Mech
+	
+
+Emily Mech utilizes event-related potentials (ERPs), computational modeling, and behavioral methodology to examine how regularities in language and the world interact to affect the ways in which our linguistic and semantic knowledge is learned, structured, accessed, and communicated.
+
+---
+
+## Lab Management
+
+### Katherine Koch 
+
+__Email:__ kmkoch3@illinois.edu

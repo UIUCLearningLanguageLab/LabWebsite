@@ -1,0 +1,13 @@
+{{ "<!-- BEGIN MAIN CONTENT -->" | safeHTML }}
+<section class="main-content">
+	<div class="wrapper row">
+		<div class="small-12 medium-6 column content-one">
+			<h3>{{ .Site.Params.main.contentOneTitle }}</h3>
+			<p>{{ .Site.Params.main.contentOneBody | markdownify }}</p>
+		</div>
+		<div class="small-12 medium-6 column content-two">
+			<h3>{{ .Site.Params.main.contentTwoTitle }}</h3>
+			<p>{{ .Site.Params.main.contentTwoBody | markdownify }}</p>
+		</div>
+	</div>
+</section> {{ "<!-- END MAIN CONTENT -->" | safeHTML }}

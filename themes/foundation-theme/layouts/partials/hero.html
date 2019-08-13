@@ -1,0 +1,18 @@
+{{ "<!-- BEGIN HERO PANEL -->" | safeHTML }}
+
+<section class="hero-panel">
+	<div class="wrapper">
+		<div id="hero-title">
+			<h1>{{ .Site.Params.hero.herotitle }}</h1>
+			<p>{{ .Site.Params.hero.herodiscription }}</p>
+<!--			<img src="{{ .Site.BaseURL }}img/logo.png" alt="'logo">-->
+		</div>
+
+
+
+<!--		<div id="hero-btns">-->
+<!--			<a href="{{ .Site.BaseURL }}research" class="button primary">{{ .Site.Params.hero.btnblue }}</a>-->
+<!--			<a href="{{ .Site.BaseURL }}participate" class="button success">{{ .Site.Params.hero.btngreen }}</a>-->
+<!--		</div>-->
+	</div>
+</section> {{ "<!-- END HERO PANEL -->" | safeHTML }}
