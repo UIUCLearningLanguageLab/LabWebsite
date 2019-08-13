@@ -32,7 +32,7 @@ Jon Willits studies language and learning in infants, children, adults, and mach
 
 ### Philip Huebner
 
-<img src="../img/phil.jpg" alt="Emily" width="200"/>
+<img src="../img/phil.jpg" alt="Philip" width="200"/>
 
 __Email:__ huebner3@illinois.edu
 
@@ -71,6 +71,15 @@ __ResearchGate:__ http://researchgate.net/profile/Emily_Mech
 	
 
 Emily Mech utilizes event-related potentials (ERPs), computational modeling, and behavioral methodology to examine how regularities in language and the world interact to affect the ways in which our linguistic and semantic knowledge is learned, structured, accessed, and communicated.
+
+### Shufan Mao
+
+<img src="../img/shufan.jpg" alt="Shufan" width="200"/>
+
+__Email:__ smao9@illinois.edu
+
+
+Shufan Mao is interested in representation of semantics, concept, and meanings. He is working on a distributional representation of concept and semantics using a network model which integrates distributional semantics, formal semantics and network science.
 
 ---
 
