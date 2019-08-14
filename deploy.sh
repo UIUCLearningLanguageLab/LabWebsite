@@ -10,4 +10,4 @@ fi
 hugo
 cd ../lab_website_static
 git commit -a -m "$1"
-git push godaddy master
+for i in 1 2 3 4 5; do "git push godaddy master" && break || sleep 1; done
