@@ -4,7 +4,7 @@ layout = "single-para"
 +++
 
 
-## How do humans learn language? 
+## How do we learn language?
 #### Children acquire this knowledge so quickly, and we sometimes forget how incredible this is. 
 The goal of our research is to better understand the mechanisms underlying
 the mastery of linguistic knowledge. Recent advances in our ability to study large, naturalistic datasets,
