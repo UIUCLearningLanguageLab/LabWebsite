@@ -9,7 +9,7 @@ If you have a child between about 6 months and 6 years old, we'd be thrilled if 
 
 ## What is a typical study like? 
 
-We conduct two main kinds of studies:
+We conduct two kinds of studies:
 
 In our in-home observational studies, we send home audio and/or video recording equipment, for you to record natural interactions between you and your child. This might include reading a book, having a meal, or playing as the child normally would.
 
