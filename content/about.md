@@ -1,5 +1,5 @@
 +++
-title = "About the Lab"
+title = "About our Lab"
 layout = "single-para"
 +++
 

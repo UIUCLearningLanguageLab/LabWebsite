@@ -1,8 +1,9 @@
 #!/usr/bin/env bash
 
 if [[ "$1" != "" ]]; then
-    echo "Positional parameter 1 contains something"
+    echo "Commit message has been supplied"
 else
+    echo "Must supply commit message"
     exit
 fi
 
