@@ -8,9 +8,6 @@ It is accessible via the domains:
 * [learninglanguagelab.org](http://learninglanguagelab.org) (registered with godaddy.com)
 * [languagelearninglab.org](http://languagelearninglab.org) (registered with weebly.com)
 
-It is hosted at incommesurable.com (registered with godaddy.com).
-To update the website, clone the repository, make changes, export a directory with static files, and push the directory to the remote git repository at incommesurable.com.
+It is hosted at incommesurable.com/lab_website (registered with godaddy.com).
+To update the website, clone the repository, make changes, compile using hugo, and synchronize the compiled files with those at the server via FTP.
 
-# TODO
-
-automatic deployment via webhook

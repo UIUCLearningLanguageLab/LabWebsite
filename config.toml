@@ -5,7 +5,7 @@ languageCode = "en-us"
 theme = "foundation-theme"
 enableRobotsTXT = true
 SectionPagesMenu = ["main", "social"]
-publishDir = "/home/ph/lab_website_static"
+publishDir = "lab_website"
 
 [params.meta]
 description = "UIUC Learning & Language Lab"
