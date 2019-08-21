@@ -80,6 +80,14 @@ __Email:__ smao9@illinois.edu
 
 Shufan Mao is interested in representation of semantics, concept, and meanings. He is working on a distributional representation of concept and semantics using a network model which integrates distributional semantics, formal semantics and network science.
 
+### Jacki
+
+<img src="../img/jacki.jpg" alt="Jacki" width="200"/>
+
+__Email:__ jerens2@illinois.edu
+
+Jacki is interested in various aspects of language production, at both the word and sentence level.
+
 ---
 
 ## Lab Management
