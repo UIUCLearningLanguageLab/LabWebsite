@@ -54,10 +54,11 @@ Andrew Flores studies vocabulary and semantic development in infants and toddler
 
 ### Lin Khern Chia
 
-__Email:__ lachia2@illinois.edu
-	
+<img src="../img/linkhern.jpg" alt="Linkhern" width="200"/>
 
-Lin Khern Chia studies semantic knowledge and semantic representations. 
+__Email:__ lachia2@illinois.edu
+
+Lin Khern studies semantic memory with behavioral paradigms and computational models.
 
 ### Emily Mech
 
