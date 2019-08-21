@@ -58,14 +58,6 @@ name = "Facebook"
 url = "http://facebook.com"
 
 [[menu.social]]
-name = "Twitter"
-url = "http://twitter.com"
-
-[[menu.social]]
-name = "Instagram"
-url = "http://instagram.com"
-
-[[menu.social]]
 name = "Github"
 url = "https://github.com/UIUCLearningLanguageLab"
 
