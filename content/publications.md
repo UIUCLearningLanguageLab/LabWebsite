@@ -5,6 +5,8 @@ layout = "single-para"
 
 ## Peer-reviewed Papers
 
+Montag, J. L. (2019). Differences in sentence complexity in the text of children’s picture books and child-directed speech. First Language, 1-20.
+
 Huebner, P., & Willits, J. (2018). Structured semantic knowledge can emerge automatically from predicting word sequences in child-directed speech. Frontiers in Psychology, 9, 133.
 
 Minor, K. S., Willits, J. A., Marggraf, M. P., Jones, M. N. (2018) Measuring disorganized speech in schizophrenia: automated analysis explains variance in cognitive deficits beyond clinician-rated scales. Psychological Medicine, 1-9.

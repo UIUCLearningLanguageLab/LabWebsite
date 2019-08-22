@@ -8,6 +8,8 @@ layout = "single-para"
 
 ### Dr. Jessica L. Montag
 
+<img src="../img/jessica.jpg" alt="Jessica" width="200"/>
+
 __Email:__ jmontag@illinois.edu
 
 __Website:__ http://languagestats.com/jessicamontag/
