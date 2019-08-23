@@ -29,6 +29,13 @@ __Website:__ http://languagestats.com/jonwillits/
 Jon Willits studies language and learning in infants, children, adults, and machines. His research uses computational, neurobiological, experimental, and naturalistic methods to better understand how people and machines learn, represent, and use languages and other forms of complex knowledge, especially word meanings and semantic knowledge.
 		
 ---
+## Post-Docs
+
+### Anastasia Stoops
+
+__Email:__ agusico2@illinois.edu
+
+---
 
 ## Graduate Students
 
