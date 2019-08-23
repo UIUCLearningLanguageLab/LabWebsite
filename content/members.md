@@ -15,7 +15,7 @@ __Email:__ jmontag@illinois.edu
 __Website:__ http://languagestats.com/jessicamontag/
 	
 
-Jessica L. Montag studies how language abilities emerge with experience across the lifespan, including language comprehension, production, and reading. Dr. Montag uses varied methods and measures, including comprehension and production experiments in adults and children, compilation and analyses of text and speech corpora, and advanced quantitative methods.
+Jessica Montag studies how language abilities emerge with experience across the lifespan, including language comprehension, production, and reading. Dr. Montag uses varied methods and measures, including comprehension and production experiments in adults and children, compilation and analyses of text and speech corpora, and advanced quantitative methods.
 	
 
 ### Dr. Jon A. Willits
