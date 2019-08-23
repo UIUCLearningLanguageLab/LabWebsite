@@ -19,7 +19,7 @@ Jessica Montag studies how language abilities emerge with experience across the 
 	
 
 ### Dr. Jon A. Willits
-
+<img src="../img/jonwillits.jpg" alt="Jon" width="200"/>
 
 __Email:__ jwillits@illinois.edu
 
