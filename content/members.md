@@ -33,7 +33,13 @@ Jon Willits studies language and learning in infants, children, adults, and mach
 
 ### Anastasia Stoops
 
+<img src="../img/anastasia.jpg" alt="Anastasia" width="200"/>
+
 __Email:__ agusico2@illinois.edu
+
+__Website:__ https://anastasiastoops.wordpress.com/
+
+Anastasia Stoops studies how people learn and use language over the lifespan in order to improve cognitive remediation interventions in the educational and medical settings. She uses psychophysical behavioral paradigms coupled with eye-tracking and electrophysiological recordings.
 
 ---
 
