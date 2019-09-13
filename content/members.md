@@ -55,14 +55,14 @@ __Github:__ http://github.com/phueb
 
 __ResearchGate:__ http://researchgate.net/profile/Philip_Huebner
 	
-
 Philip Huebner studies computational models of language and knowledge acquisition.
 	
 
 ### Andrew Flores
 
+<img src="../img/andrew.jpg" alt="Emily" width="200"/>
+
 __Email:__ azf2@illinois.edu
-	
 
 Andrew Flores studies vocabulary and semantic development in infants and toddlers.
 	
