@@ -21,15 +21,14 @@ The results from our studies are typically first presented at professional scien
 
 ## How can I participate?
 
-We are always in need of more participants to help us explore children's learning and language development. If you would like to participate with your child in one of our studies, or have questions, please contact us at kmkoch3@illinois.edu or by e-mail at kmkoch3@illinois.edu. We would be very happy to hear from you!
+We are always in need of more participants to help us explore children's learning and language development. If you would like to participate with your child in one of our studies, or have questions, please contact us at psychlearninglab@illinois.edu or (217) 300-7022. We would be very happy to hear from you!
 
-An appointment can be made to suit your schedule (mornings, afternoons, or evenings). Free parking, toys to play with and baby-sitting for siblings are all provided at the lab. Every child who participates can choose a gift to take home – our way of saying thanks.
+An appointment can be made to suit your schedule (mornings, afternoons, or evenings). Free parking, toys to play with and baby-sitting for siblings are all provided at the lab. Every child who participates can choose a prize to take home – our way of saying thanks.
 
 ## How do I get to the Learning and Language Lab?
 
-We are located in the Psychology Building on the University of Illinois Urbana-Champaign campus. The address is:
-603 E. Daniel
-Rm. 435
+We are located in Room 490 of the Psychology Building on the University of Illinois at Urbana-Champaign. The address is:
+603 E. Daniel Street
 Champaign, IL 61820    
 
 <iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=603+E.+daniel&amp;sll=40.107454,-88.286653&amp;sspn=0.009962,0.015535&amp;g=603+E.+daniels&amp;ie=UTF8&amp;hq=&amp;hnear=603+E+Daniel+St,+Champaign,+Illinois+61820&amp;ll=40.112214,-88.230944&amp;spn=0.022975,0.036478&amp;z=14&amp;iwloc=A&amp;output=embed"></iframe>
