@@ -51,9 +51,9 @@ Anastasia Stoops studies how people learn and use language over the lifespan in 
 
 __Email:__ huebner3@illinois.edu
 
-__Github:__ http://github.com/phueb
+__Github:__ https://github.com/phueb
 
-__ResearchGate:__ http://researchgate.net/profile/Philip_Huebner
+__ResearchGate:__ https://researchgate.net/profile/Philip_Huebner
 	
 Philip Huebner studies computational models of language and knowledge acquisition.
 	
@@ -73,6 +73,8 @@ Andrew Flores studies vocabulary and semantic development in infants and toddler
 
 __Email:__ lachia2@illinois.edu
 
+__Github:__ https://github.com/chialinkhern
+
 Lin Khern studies semantic memory with behavioral paradigms and computational models.
 
 ### Emily Mech
@@ -81,9 +83,9 @@ Lin Khern studies semantic memory with behavioral paradigms and computational mo
 
 __Email:__ enmech2@illinois.edu
 
-__Github:__ http://github.com/emilymech
+__Github:__ https://github.com/emilymech
 
-__ResearchGate:__ http://researchgate.net/profile/Emily_Mech
+__ResearchGate:__ https://researchgate.net/profile/Emily_Mech
 	
 
 Emily Mech utilizes event-related potentials (ERPs), computational modeling, and behavioral methodology to examine how regularities in language and the world interact to affect the ways in which our linguistic and semantic knowledge is learned, structured, accessed, and communicated.
