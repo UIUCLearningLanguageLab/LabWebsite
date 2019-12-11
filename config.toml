@@ -9,7 +9,7 @@ publishDir = "lab_website"
 
 [params.meta]
 description = "UIUC Learning & Language Lab"
-keywords = "SRN, Jon Willits, Jessica Montag, Philip Huebner, neural network, language acquisition, UIUC"
+keywords = "SRN, Jon Willits, Jessica Montag, neural network, language acquisition, UIUC"
 
 [params.hero]
 herotitle = "🆄🅸🆄🅲 🅻🅴🅰🆁🅽🅸🅽🅶 & 🅻🅰🅽🅶🆄🅰🅶🅴 🅻🅰🅱"
@@ -18,12 +18,10 @@ btnblue = "For Researchers"
 btngreen = "For Parents"
 
 [params.main]
-contentOneTitle = "How do Meaning and Structure interact?"
-contentTwoTitle = "What Are the 'Units' in Statistical Learning?"
+contentOneTitle = "Welcome to the UIUC Learning & Language Lab"
+contentOneBody = ""
+contentTwoBody = "Our mission is to better understand how children acquire concepts, learn to comprehend and produce language. "
 
-contentOneBody = "Psychological research often compartmentalizes different domains of knowledge (for example, semantic versus syntactic knowledge). In our lab, we try to draw attention to the potential learning boosts that come from integrating knowledge across domains."
-
-contentTwoBody = "Children rapidly learn statistical dependencies in their environment. In order to formalize theories of statistical learning, we need to establish how children come to identify the units over which they are tracking statistics. Because once certain units become established, they bias future learning, due to those units (and not others) being the objects of attention. Understanding this phenomenon will help explain many puzzles in acquisition."
 
 [params.footer]
 email = "info@philhuebner.com"

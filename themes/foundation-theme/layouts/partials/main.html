@@ -6,8 +6,12 @@
 			<p>{{ .Site.Params.main.contentOneBody | markdownify }}</p>
 		</div>
 		<div class="small-12 medium-6 column content-two">
-			<h3>{{ .Site.Params.main.contentTwoTitle }}</h3>
+<!--			<h3>{{ .Site.Params.main.contentTwoTitle }}</h3>-->
 			<p>{{ .Site.Params.main.contentTwoBody | markdownify }}</p>
+
+<!--			<img src="{{ .Site.BaseURL }}img/building.jpg" alt="'Psychology Building">-->
+
 		</div>
+		<img src="{{ .Site.BaseURL }}img/building.jpg" alt="'Psychology Building">
 	</div>
 </section> {{ "<!-- END MAIN CONTENT -->" | safeHTML }}
