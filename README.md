@@ -8,13 +8,19 @@ It is accessible via the domains:
 * [learninglanguagelab.org](http://learninglanguagelab.org) (registered with godaddy.com)
 * [languagelearninglab.org](http://languagelearninglab.org) (registered with weebly.com)
 
-
-## Development
-
 It is hosted at `incommesurable.com/lab_website` (registered with godaddy.com).
+
+## Updating
+
 To update the website:
 * clone the repository
 * make changes
 * compile using `hugo`
-*  synchronize the compiled files with those at the server via FTP.
+* do one of the following:
+  * synchronize the compiled files with those at the server via FTP, or
+  * simply push the changes to Github, which will trigger a deployment script that copies the content of `built_by_hugo` to incommesurable.com
 
+## Automatic Deployment
+
+Automatic deployment on a push to Github is made possible by Github Actions. 
+The action which performs the atuomatic deployment can be configured by editing `workflow.yml` in `.github`
