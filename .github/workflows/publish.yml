@@ -12,5 +12,7 @@ jobs:
         FTP_SERVER: ftp.incommesurable.com
         FTP_USERNAME: jwillits
         FTP_PASSWORD: ${{ secrets.FTP_PASSWORD }}
+        LOCAL_DIR: built_by_hugo 
+        REMOTE_DIR: lab_website 
         ARGS: --delete
         # --delete arg will delete files on the server if you've deleted them in git
