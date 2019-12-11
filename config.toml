@@ -20,7 +20,7 @@ btngreen = "For Parents"
 [params.main]
 contentOneTitle = "Welcome to the UIUC Learning & Language Lab"
 contentOneBody = ""
-contentTwoBody = "Our mission is to better understand how children acquire language. We use a variety of behavioral and computational methods to investigate a braod set of questions in cognitive psychology. "
+contentTwoBody = "Our mission is to better understand how children acquire language, using a variety of behavioral and computational methods. "
 
 
 [params.footer]
