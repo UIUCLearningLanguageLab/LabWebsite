@@ -49,7 +49,7 @@ url = "/participate"
 
 [[menu.main]]
 name = "Documentation"
-url = "docs.learninglanguagelab.org"
+url = "https://docs.learninglanguagelab.org"
 
 [[menu.main]]
 name = "Join"
