@@ -3,10 +3,11 @@ title = "Tech"
 layout = "single-para"
 +++
 
+---
 
 ## Lab-internal
 
-### file sharing
+### File sharing
 __Documentation:__ https://docs.philhuebner.com/file-sharing
 	
 ### Python job submission system 

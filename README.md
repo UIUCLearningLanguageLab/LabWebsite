@@ -16,9 +16,8 @@ To update the website:
 * clone the repository
 * make changes
 * compile using `hugo`
-* do one of the following:
-  * synchronize the compiled files with those at the server via FTP, or
-  * simply push the changes to Github, which will trigger a deployment script that copies the content of `built_by_hugo` to incommesurable.com
+* make sure any added files are added to Git Version Control 
+* simply push the changes to Github, which will trigger a deployment script that copies the content of `built_by_hugo` to incommesurable.com
 
 Check the status of the website build by clicking on the `Actions` tab on the Github browser interface. 
 
