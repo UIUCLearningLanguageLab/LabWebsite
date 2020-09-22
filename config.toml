@@ -48,6 +48,10 @@ name = "Participate"
 url = "/participate"
 
 [[menu.main]]
+name = "Documentation"
+url = "docs.learninglanguagelab.org"
+
+[[menu.main]]
 name = "Join"
 url = "/join"
 
