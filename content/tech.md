@@ -1,9 +1,9 @@
 +++
-title = "Tools"
+title = "Tech"
 layout = "single-para"
 +++
 
-## Documentation
+## Documentation for Tech used in-house
 
 
 ### File sharing

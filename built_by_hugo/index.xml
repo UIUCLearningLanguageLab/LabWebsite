@@ -64,21 +64,24 @@ Minor, K. S., Willits, J. A., Marggraf, M. P., Jones, M. N. (2018) Measuring dis
     </item>
     
     <item>
-      <title>Tools</title>
-      <link>/docs/</link>
+      <title>Tech</title>
+      <link>/tech/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/</guid>
-      <description>Documentation File sharing https://docs.philhuebner.com</description>
+      <guid>/tech/</guid>
+      <description>Documentation for Tech used in-house File sharing https://docs.philhuebner.com</description>
     </item>
     
     <item>
-      <title>Tools/Data</title>
-      <link>/tools/</link>
+      <title>Tools&#43;Data</title>
+      <link>/tools&#43;data/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/tools/</guid>
-      <description>Open-Source Python Packages Preppy Website: https://github.com/phueb/Preppy
+      <guid>/tools&#43;data/</guid>
+      <description>Open-Source Python Packages Ludwig-Template Used internally, to quickly get started building jobs to submit to internal job submission system.
+Website: https://github.com/UIUCLearningLanguageLab/Ludwig-Template
+Preppy Website: https://github.com/phueb/Preppy
+Visualized Website: https://github.com/UIUCLearningLanguageLab/Visualized
 Natural Language Data American-English Age-ordered CHILDES Website: https://github.com/UIUCLearningLanguageLab/CreateCHILDESCorpus</description>
     </item>
     
