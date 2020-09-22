@@ -106,6 +106,13 @@ __Email:__ jerens2@illinois.edu
 
 Jacki Erens is interested in various aspects of language production, at both the word and sentence level.
 
+### Zeynep Marasli
+
+
+__Email:__ marasli2@illinois.edu
+
+
+
 ---
 
 ## Lab Management
