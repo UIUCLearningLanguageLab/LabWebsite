@@ -52,8 +52,8 @@ name = "Documentation"
 url = "https://docs.learninglanguagelab.org"
 
 [[menu.main]]
-name = "Tools/Data"
-url = "/tools"
+name = "Tools+Data"
+url = "/tools+data"
 
 [[menu.main]]
 name = "Join"
