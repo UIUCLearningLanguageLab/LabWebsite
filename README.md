@@ -20,6 +20,8 @@ To update the website:
   * synchronize the compiled files with those at the server via FTP, or
   * simply push the changes to Github, which will trigger a deployment script that copies the content of `built_by_hugo` to incommesurable.com
 
+Check the status of the website build by clicking on the `Actions` tab on the Github browser interface. 
+
 ## Automatic Deployment
 
 Automatic deployment on a push to Github is made possible by Github Actions. 
