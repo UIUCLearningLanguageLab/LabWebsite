@@ -3,10 +3,9 @@ title = "Tech"
 layout = "single-para"
 +++
 
-## Documentation for Tech used in-house
 
-
-### File sharing
-
-https://docs.philhuebner.com
+### In-lab file sharing
+__Documentation:__ https://docs.philhuebner.com/file-sharing
 	
+### In-lab Python job submission system 
+__Documentation:__ https://docs.philhuebner.com/ludwig
