@@ -13,7 +13,7 @@ Used internally, to quickly get started building jobs to submit to internal job 
 __Website:__  https://github.com/UIUCLearningLanguageLab/Ludwig-Template
 
 ### Ludwig-Viz
-Used internally, to quickly visualize metrics tracked as part o fone or more jobs submitted to `Ludwig`. For example, compare learning curves (e.g. MSE) for groups of neural networks each trained with different hyper-parameters. 
+Used internally, to quickly visualize metrics tracked as part of one or more jobs submitted to `Ludwig`. For example, compare learning curves (e.g. MSE) for groups of neural networks each trained with different hyper-parameters. 
 
 __Website:__  https://github.com/phueb/LudwigViz
 
