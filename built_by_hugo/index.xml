@@ -79,12 +79,10 @@ Python job submission system Documentation: https://docs.philhuebner.com/ludwig<
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/tools&#43;data/</guid>
-      <description>Open-Source Python Packages Ludwig-Template Used internally, to quickly get started building jobs to submit to internal job submission system.
+      <description>Open-Source Python Packages Ludwig-Template Used internally, to quickly get started building jobs to submit to internal job submission system called Ludwig.
 Website: https://github.com/UIUCLearningLanguageLab/Ludwig-Template
-Preppy This repository contains convenienve functions for preparing text data for training NLP models. It is possible to prepare batches of data that preserve the order of documents in the corpus.
-Website: https://github.com/phueb/Preppy
-Visualized THis repository contains convenience functions for common visualizations, built on top of matplotlib.
-Website: https://github.</description>
+Preppy This repository contains convenienve functions for preparing text data for training NLP models. It is possible to prepare batches of data that preserve the order of documents in the corpus. Website: https://github.com/phueb/Preppy
+Visualized This repository contains convenience functions for common visualizations, built on top of matplotlib.</description>
     </item>
     
     <item>
