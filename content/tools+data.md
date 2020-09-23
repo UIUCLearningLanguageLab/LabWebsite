@@ -19,6 +19,7 @@ __Website:__  https://github.com/phueb/LudwigViz
 
 ### Preppy
 This repository contains convenienve functions for preparing text data for training NLP models. It is possible to prepare batches of data that preserve the order of documents in the corpus. 
+
 __Website:__ https://github.com/phueb/Preppy
 
 ### Visualized
