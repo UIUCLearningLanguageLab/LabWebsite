@@ -46,8 +46,8 @@ name = "Participate"
 url = "/participate"
 
 [[menu.main]]
-name = "Tech"
-url = "/tech"
+name = "Docs"
+url = "/docs"
 
 [[menu.main]]
 name = "Tools+Data"

@@ -20,6 +20,16 @@
     </item>
     
     <item>
+      <title>Docs</title>
+      <link>/docs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/</guid>
+      <description>Lab-internal technology Documentation about the lab&amp;rsquo;s file server and fil sharing is available here: https://docs.philhuebner.com/file-sharing
+Documentation about how Ludwig workers are setup is available here: https://docs.philhuebner.com/ludwig</description>
+    </item>
+    
+    <item>
       <title>Join</title>
       <link>/join/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -61,16 +71,6 @@ Jon Willits studies language and learning in infants, children, adults, and mach
       <description>Peer-reviewed Papers Sarkis, J. T., &amp;amp; Montag, J. L. (2020). The effect of lexical accessibility on Spanish-English intra-sentential codeswitching. Memory and Cognition, 1-18. pdf osf
 Montag, J. L. (2019). Differences in sentence complexity in the text of children’s picture books and child-directed speech. First Language, 39, 527-546. pdf osf
 Huebner, P., &amp;amp; Willits, J. (2018). Structured semantic knowledge can emerge automatically from predicting word sequences in child-directed speech. Frontiers in Psychology, 9, 133.</description>
-    </item>
-    
-    <item>
-      <title>Tech</title>
-      <link>/tech/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/tech/</guid>
-      <description>Lab-internal File sharing Documentation: https://docs.philhuebner.com/file-sharing
-Python job submission system Documentation: https://docs.philhuebner.com/ludwig</description>
     </item>
     
     <item>
