@@ -2,18 +2,32 @@
 
 <nav class="top-bar nav-desktop ">
 	<div class="wrapper">
-		<div class="top-bar-left">
-			<a href="{{ .Site.BaseURL }}">
-				<h4 class="site-logo">
+<!--		<div class="top-bar-left">-->
+<!--			<a href="{{ .Site.BaseURL }}">-->
+<!--				<h4 class="site-logo">-->
 <!--					<img src="{{ .Site.BaseURL }}img/logo.png" alt="logo" style="width: 40px">-->
 <!--					{{ .Site.Title }}-->
-				</h4>
+<!--				</h4>-->
+<!---->
+<!--			</a>-->
+<!--		</div>-->
+<!--  		<div class="top-bar-right">-->
+<!--        	<ul class="menu horizontal menu-desktop">-->
+<!--			{{ $currentNode := . }}	-->
+<!--			{{ range .Site.Menus.main }}-->
+<!--          	<li>-->
+<!--				<a class='nav-item{{if or ($currentNode.IsMenuCurrent "main" .) ($currentNode.HasMenuCurrent "main" .) }} active{{end}}' href="{{.URL}}">-->
+<!--				{{ .Name}}-->
+<!--				</a>-->
+<!--			</li>-->
+<!--			{{end}}-->
+<!--        	</ul>-->
+<!--  	  	</div>-->
 
-			</a>
-		</div>
-  		<div class="top-bar-right">
+		<!--ph 2020-->
+		<div class="top-bar-center">
         	<ul class="menu horizontal menu-desktop">
-			{{ $currentNode := . }}	
+			{{ $currentNode := . }}
 			{{ range .Site.Menus.main }}
           	<li>
 				<a class='nav-item{{if or ($currentNode.IsMenuCurrent "main" .) ($currentNode.HasMenuCurrent "main" .) }} active{{end}}' href="{{.URL}}">
@@ -23,5 +37,7 @@
 			{{end}}
         	</ul>
   	  	</div>
+
+
 	</div>
 </nav> {{ "<!-- END NAV BAR DESKTOP -->" | safeHTML }}
