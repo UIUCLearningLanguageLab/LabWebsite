@@ -12,6 +12,11 @@ Used internally, to quickly get started building jobs to submit to internal job 
 
 __Website:__  https://github.com/UIUCLearningLanguageLab/Ludwig-Template
 
+### Ludwig-Viz
+Used internally, to quickly visualize metrics tracked as part o fone or more jobs submitted to `Ludwig`. For example, compare learning curves (e.g. MSE) for groups of neural networks each trained with different hyper-parameters. 
+
+__Website:__  https://github.com/phueb/LudwigViz
+
 ### Preppy
 This repository contains convenienve functions for preparing text data for training NLP models. It is possible to prepare batches of data that preserve the order of documents in the corpus. 
 __Website:__ https://github.com/phueb/Preppy
