@@ -25,18 +25,16 @@
 <!--  	  	</div>-->
 
 		<!--ph 2020-->
-		<div class="top-bar-center">
-        	<ul class="menu horizontal menu-desktop">
-			{{ $currentNode := . }}
-			{{ range .Site.Menus.main }}
-          	<li>
-				<a class='nav-item{{if or ($currentNode.IsMenuCurrent "main" .) ($currentNode.HasMenuCurrent "main" .) }} active{{end}}' href="{{.URL}}">
-				{{ .Name}}
-				</a>
-			</li>
-			{{end}}
-        	</ul>
-  	  	</div>
+		<ul class="menu horizontal menu-desktop" style="width: 90%; margin: auto;">
+		{{ $currentNode := . }}
+		{{ range .Site.Menus.main }}
+		<li>
+			<a class='nav-item{{if or ($currentNode.IsMenuCurrent "main" .) ($currentNode.HasMenuCurrent "main" .) }} active{{end}}' href="{{.URL}}">
+			{{ .Name}}
+			</a>
+		</li>
+		{{end}}
+		</ul>
 
 
 	</div>
