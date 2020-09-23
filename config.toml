@@ -14,8 +14,6 @@ keywords = "SRN, Jon Willits, Jessica Montag, neural network, language acquisiti
 [params.hero]
 herotitle = "🆄🅸🆄🅲 🅻🅴🅰🆁🅽🅸🅽🅶 & 🅻🅰🅽🅶🆄🅰🅶🅴 🅻🅰🅱"
 herodiscription = ""
-btnblue = "For Researchers"
-btngreen = "For Parents"
 
 [params.main]
 contentOneTitle = "Welcome to the UIUC Learning & Language Lab"
@@ -24,7 +22,7 @@ contentTwoBody = "Our mission is to better understand how children acquire langu
 
 
 [params.footer]
-email = "info@philhuebner.com"
+email = "jwillits@illinois.edu"
 address = "Champaign, IL"
 
 [[menu.main]]
