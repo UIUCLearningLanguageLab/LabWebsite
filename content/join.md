@@ -5,7 +5,7 @@ layout = "single-para"
 
 
 ### Graduate Students
-Dr. Montag and Dr. Willits are not recruiting graduate for Fall 2021.
+Dr. Montag and Dr. Willits are not recruiting graduate students for Fall 2021.
 
 ### Post-Docs
 Dr. Willits may be recruiting a post-doc to begin Fall 2021. The research focus for this position will be computational modeling of learning and language. The ideal candidate will have previous experience in computational modeling, natural language processing, and programming in Python. Interested candidates should email Dr. Willits.
