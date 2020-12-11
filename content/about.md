@@ -3,6 +3,7 @@ title = "About our Lab"
 layout = "single-para"
 +++
 
+---
 
 ## How do we learn and use language?
 <!---Children acquire this knowledge so quickly, and we sometimes forget how incredible this is. --->

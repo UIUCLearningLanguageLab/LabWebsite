@@ -8,10 +8,7 @@
   
   <url>
     <loc>/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>/docs/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -20,6 +17,7 @@
   
   <url>
     <loc>/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -36,6 +34,7 @@
   
   <url>
     <loc>/tags/</loc>
+    <priority>0</priority>
   </url>
   
   <url>

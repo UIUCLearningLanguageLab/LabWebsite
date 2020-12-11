@@ -3,6 +3,8 @@ title = "Publications"
 layout = "single-para"
 +++
 
+---
+
 ## Peer-reviewed Papers
 Sarkis, J. T., & Montag, J. L. (2020). The effect of lexical accessibility on Spanish-English intra-sentential codeswitching. Memory and Cognition, 1-18. <a href = "../pubs/Sarkis&Montag_2020.pdf">pdf</a> <a href = "https://osf.io/uchpv/">osf</a>
 
