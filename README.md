@@ -26,4 +26,4 @@ Check the status of the website build by clicking on the `Actions` tab on the Gi
 ## Automatic Deployment
 
 Automatic deployment on a push to Github is made possible by Github Actions. 
-The action which performs the atuomatic deployment can be configured by editing `workflow.yml` in `.github`
+The action which performs the automatic deployment can be configured by editing `workflow.yml` in `.github`
