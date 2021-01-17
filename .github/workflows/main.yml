@@ -15,4 +15,4 @@ jobs:
         username: phuebner@incommesurable.com
         password: ${{ secrets.ftp_password }}
         local-dir: built_by_hugo/ 
-        server-dir: lab_website/ 
+        server-dir: public_html/lab_website/
