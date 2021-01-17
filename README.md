@@ -1,6 +1,6 @@
 # LabWebsite
 
-![🚀 Deploy website on push](https://github.com/UIUCLearningLanguageLab/LabWebsite/workflows/%F0%9F%9A%80%20Deploy%20website%20on%20push/badge.svg)
+![🚀 Deploy on push](https://github.com/UIUCLearningLanguageLab/LabWebsite/workflows/%F0%9F%9A%80%20Deploy%20website%20on%20push/badge.svg)
 
 The website for the UIUC Learning and Language Lab is under git version control.
 It is a static website built in the [hugo ](https://gohugo.io/) framework and uses the [foundations](https://themes.gohugo.io/foundation-theme/) theme.
