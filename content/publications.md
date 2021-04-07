@@ -4,7 +4,9 @@ layout = "single-para"
 +++
 
 ## Peer-reviewed Papers
-Sarkis, J. T., & Montag, J. L. (2020). The effect of lexical accessibility on Spanish-English intra-sentential codeswitching. Memory and Cognition, 1-18. <a href = "../pubs/Sarkis&Montag_2020.pdf">pdf</a> <a href = "https://osf.io/uchpv/">osf</a>
+Montag, J, L. (2021). Limited evidence for probability matching as a strategy in probability learning tasks. Psychology of Learning and Motivation, 74.<a href = "../pubs/Montag_PLM_2021.pdf">pdf</a>
+
+Sarkis, J. T., & Montag, J. L. (2021). The effect of lexical accessibility on Spanish-English intra-sentential codeswitching. Memory and Cognition, 49, 163-180. <a href = "../pubs/Sarkis&Montag_2020.pdf">pdf</a> <a href = "https://osf.io/uchpv/">osf</a>
 
 Montag, J. L. (2019). Differences in sentence complexity in the text of children’s picture books and child-directed speech. First Language, 39, 527-546. <a href = "../pubs/Montag_2019.pdf">pdf</a> <a href = "https://osf.io/tjs2e/">osf</a>
 
