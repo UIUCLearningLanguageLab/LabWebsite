@@ -3,6 +3,8 @@ title = "Publications"
 layout = "single-para"
 +++
 
+---
+
 ## Peer-reviewed Papers
 Montag, J, L. (2021). Limited evidence for probability matching as a strategy in probability learning tasks. Psychology of Learning and Motivation, 74.<a href = "../pubs/Montag_PLM_2021.pdf">pdf</a>
 

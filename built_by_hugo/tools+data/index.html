@@ -20,8 +20,6 @@
 						
           				<li><a class="nav-item" href="/about">About</a></li>
 						
-          				<li><a class="nav-item" href="/docs">Docs</a></li>
-						
           				<li><a class="nav-item" href="/join">Join</a></li>
 						
           				<li><a class="nav-item" href="/members">Members</a></li>
@@ -112,12 +110,6 @@
 
 
 
-
-
-
-
-
-
 		
 		<ul class="menu horizontal menu-desktop" style="width: 90%; margin: auto;">
 		
@@ -125,12 +117,6 @@
 		<li>
 			<a class='nav-item' href="/about">
 			About
-			</a>
-		</li>
-		
-		<li>
-			<a class='nav-item' href="/docs">
-			Docs
 			</a>
 		</li>
 		
@@ -208,25 +194,13 @@
 
 <h2 id="open-source-python-packages">Open-Source Python Packages</h2>
 
-<h3 id="ludwig-template">Ludwig-Template</h3>
-
-<p>Used internally, to quickly get started building jobs to submit to internal job submission system called <code>Ludwig</code>.</p>
-
-<p><strong>Website:</strong>  <a href="https://github.com/UIUCLearningLanguageLab/Ludwig-Template">https://github.com/UIUCLearningLanguageLab/Ludwig-Template</a></p>
-
-<h3 id="ludwig-viz">Ludwig-Viz</h3>
-
-<p>Used internally, to quickly visualize metrics tracked as part of one or more jobs submitted to <code>Ludwig</code>. For example, compare learning curves (e.g. MSE) for groups of neural networks each trained with different hyper-parameters.</p>
-
-<p><strong>Website:</strong>  <a href="https://github.com/phueb/LudwigViz">https://github.com/phueb/LudwigViz</a></p>
-
-<h3 id="preppy">Preppy</h3>
+<h4 id="preppy">Preppy</h4>
 
 <p>This repository contains convenienve functions for preparing text data for training NLP models. It is possible to prepare batches of data that preserve the order of documents in the corpus.</p>
 
 <p><strong>Website:</strong> <a href="https://github.com/phueb/Preppy">https://github.com/phueb/Preppy</a></p>
 
-<h3 id="visualized">Visualized</h3>
+<h4 id="visualized">Visualized</h4>
 
 <p>This repository contains convenience functions for common visualizations, built on top of <code>matplotlib</code>.</p>
 
@@ -236,18 +210,44 @@
 
 <h2 id="natural-language-data">Natural Language Data</h2>
 
-<h3 id="american-english-childes">American-English CHILDES</h3>
+<h4 id="american-english-childes">American-English CHILDES</h4>
 
 <p>To create a custom CHILDES corpus, use the Python package <code>CreateCHILDESCorpus</code>.
 The package allows you to define custom tokenization rules, among other features. The output is a text file containing line-separated transcripts, and will be ordered by the age of the child spoken to.</p>
 
-<p><strong>Website:</strong> <a href="https://github.com/UIUCLearningLanguageLab">https://github.com/UIUCLearningLanguageLab</a></p>
+<p><strong>Website:</strong> <a href="https://github.com/UIUCLearningLanguageLab/CreateCHILDESCorpus">https://github.com/UIUCLearningLanguageLab/CreateCHILDESCorpus</a></p>
 
-<h3 id="english-wikipedia">English Wikipedia</h3>
+<h4 id="english-wikipedia">English Wikipedia</h4>
 
 <p>To create a custom Wikipedia corpus, use the Python package <code>CreateWikiCorpus</code>. Due to the size of English Wikipedia - 4billion words as of 2019 - corpus creation is distributed across <code>Ludwig</code> workers, and output files are saved to the server. A single corpus is distributed across multiple text files, each created on a separate worker.</p>
 
-<p><strong>Website:</strong>  <a href="https://github.com/UIUCLearningLanguageLab">https://github.com/UIUCLearningLanguageLab</a>.</p>
+<p><strong>Website:</strong>  <a href="https://github.com/UIUCLearningLanguageLab/CreateWikiCorpus">https://github.com/UIUCLearningLanguageLab/CreateWikiCorpus</a></p>
+
+<hr />
+
+<h2 id="ludwig">Ludwig</h2>
+
+<p>We use a custom-built job submission system, called <code>Ludwig</code>, for computationally expensive simulations.
+Documentation about how <code>Ludwig</code> workers are setup is available here:</p>
+
+<p><a href="https://docs.philhuebner.com/ludwig">https://docs.philhuebner.com/ludwig</a></p>
+
+<p>The system is built on top of 8 workers, and 1 shared file server.
+Documentation about the lab&rsquo;s file server and file sharing is available here:</p>
+
+<p><a href="https://docs.philhuebner.com/file-sharing">https://docs.philhuebner.com/file-sharing</a></p>
+
+<h4 id="ludwig-template">Ludwig-Template</h4>
+
+<p>Used internally, to quickly get started building jobs to submit to <code>Ludwig</code>.</p>
+
+<p><strong>Website:</strong>  <a href="https://github.com/UIUCLearningLanguageLab/Ludwig-Template">https://github.com/UIUCLearningLanguageLab/Ludwig-Template</a></p>
+
+<h4 id="ludwig-viz">Ludwig-Viz</h4>
+
+<p>Used internally, to quickly visualize metrics tracked as part of one or more jobs submitted to <code>Ludwig</code>. For example, compare learning curves (e.g. MSE) for groups of neural networks each trained with different hyper-parameters.</p>
+
+<p><strong>Website:</strong>  <a href="https://github.com/phueb/LudwigViz">https://github.com/phueb/LudwigViz</a></p>
  </p>
 							</div>
 						</div>
@@ -270,8 +270,6 @@ The package allows you to define custom tokenization rules, among other features
 			
 			
 			<a class="nav-item" href="/about">About</a>
-			
-			<a class="nav-item" href="/docs">Docs</a>
 			
 			<a class="nav-item" href="/join">Join</a>
 			

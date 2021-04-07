@@ -3,6 +3,8 @@ title = "Participate"
 layout = "single-para"
 +++
 
+---
+
 ## Volunteers Needed for Our Research!
 
 If you have a child between about 6 months and 6 years old, we'd be thrilled if you and your child would participate in our studies of learning and language. Children are learning vast amounts of information from the earliest moments. We study how children learn language and other kinds of knowledge, including what words mean, how to talk and understand language, and how to read. You can help us with our research by participating in one of our fun and interesting studies.

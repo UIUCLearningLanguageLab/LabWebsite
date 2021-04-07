@@ -3,6 +3,7 @@ title = "Join"
 layout = "single-para"
 +++
 
+---
 
 ### Graduate Students
 Dr. Montag and Dr. Willits are not recruiting graduate students for Fall 2021.
