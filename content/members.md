@@ -58,7 +58,8 @@ __Github:__ https://github.com/phueb
 
 __ResearchGate:__ https://researchgate.net/profile/Philip_Huebner
 	
-Philip Huebner studies computational models of language and knowledge acquisition.
+Philip Huebner studies computational models of language acquisition,
+ and in particular RNN and Transformer-based language models.
 	
 
 ### Andrew Flores
