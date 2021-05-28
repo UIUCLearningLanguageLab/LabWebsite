@@ -6,9 +6,9 @@ layout = "single-para"
 ---
 
 ## Peer-reviewed Papers
-Huebner, P., & Willits, J. (2021). Using lexical context to discover the noun category: Younger children have it easier. Psychology of Learning and Motivation, 74.<a href = "../pubs/Huebner_PLM_2021.pdf">pdf</a>
+Huebner, P., & Willits, J. (2021). Using lexical context to discover the noun category: Younger children have it easier. Psychology of Learning and Motivation, 74. <a href = "../pubs/Huebner_PLM_2021.pdf">pdf</a>
 
-Montag, J, L. (2021). Limited evidence for probability matching as a strategy in probability learning tasks. Psychology of Learning and Motivation, 74.<a href = "../pubs/Montag_PLM_2021.pdf">pdf</a>
+Montag, J, L. (2021). Limited evidence for probability matching as a strategy in probability learning tasks. Psychology of Learning and Motivation, 74. <a href = "../pubs/Montag_PLM_2021.pdf">pdf</a>
 
 Sarkis, J. T., & Montag, J. L. (2021). The effect of lexical accessibility on Spanish-English intra-sentential codeswitching. Memory and Cognition, 49, 163-180. <a href = "../pubs/Sarkis&Montag_2020.pdf">pdf</a> <a href = "https://osf.io/uchpv/">osf</a>
 
