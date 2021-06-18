@@ -44,6 +44,8 @@ Willits, J. A., Wojcik, E. H., Seidenberg, M. S., & Saffran, J. R. (2013). Toddl
 
 ## Refereed Conference Papers
 
+Stoops, A., & Montag, J.L. (July 2020). Novel Corpus of Book Reading Sessions Recorded at Home. Poster presented at the Cognitive Science Society Annual Virtual Meeting (CogSci 2020). Toronto, Canada  <a href = "https://www.researchgate.net/publication/343350668_Novel_Corpus_of_Book_Reading_Sessions_Recorded_at_Home">pdf</a>
+
 Montag, J. L. (2020). New insights from daylong audio transcripts of children’s language environments. Proceedings of the 41st Annual Conference of the Cognitive Science Society (pp.). Toronto, ON, Canada: Cognitive Science Society. <a href = "../pubs/Montag_CogSci_2020_final.pdf">pdf</a>
 
 Huebner, P. A., & Willits, J. A. (2018). Order matters: Distributional properties of speech to young children bootstraps learning of semantic representations. Proceedings of the 40th Annual Conference of the Cognitive Science Society. (pp. 1799-1805). Austin, TX: Cognitive Science Soceity.
@@ -69,6 +71,8 @@ Willits, J. A., Amato, M. S., & Sussman, R. S. (2008). Event knowledge versus ve
 Willits, J. A., Duran, N. D., D’Mello, S. K., & Olney, A. (2007). Distributional statistics and thematic role relationships. In D. McNamara, & G. Trafton (Eds.), Proceedings of the 29th Annual Conference of the Cognitive Science Society (pp. 707-712). Austin, TX: Cognitive Science Society.
 
 ## Talks & Presentations
+
+Stoops, A., Huang, J., Wu, M., & Montag, J. (March, 2021). Complex syntax and conversational turn-taking during toddler-adult picture book reading. Short talk given at the 34th Annual CUNY Conference on Human Sentence Processing. Philadelphia, PA <a href = "https://www.cuny2021.io/wp-content/uploads/2021/02/CUNY_2021_abstract_80.pdf">pdf</a>
 
 Montag, J. L. (2018) Assessing reading experience in heritage Spanish-speaking undergraduates. Talk presented at the 3rd International Conference on Heritage/Community Languages, Los Angeles, CA.
 

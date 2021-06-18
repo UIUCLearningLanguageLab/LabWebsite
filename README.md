@@ -21,6 +21,9 @@ To update the website:
 
 Check the status of the website build by clicking on the `Actions` tab on the Github browser interface. 
 
+Note: Add any pdfs to `/themes/foundation-theme/static/pubs`. 
+Don't forget to "add" them to version-control using `git`.
+
 ## Automatic Deployment
 
 Automatic deployment on a push to Github is made possible by Github Actions. 
