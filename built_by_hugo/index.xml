@@ -74,18 +74,17 @@ Huebner, P., &amp;amp; Willits, J. (2021). Using lexical context to discover the
 Website: https://github.com/phueb/Preppy
 Visualized This repository contains convenience functions for common visualizations, built on top of matplotlib.
 Website: https://github.com/UIUCLearningLanguageLab/Visualized
-Natural Language Data American-English CHILDES To create a custom CHILDES corpus, use the Python package CreateCHILDESCorpus. The package allows you to define custom tokenization rules, among other features.</description>
+Natural Language Data AO-CHILDES To create a custom text corpus of American-English child-directed language, use the Python package AOCHILDES.</description>
     </item>
     
     <item>
       <title>Topics</title>
-      <link>/research/</link>
+      <link>/topics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/research/</guid>
-      <description>Recent works by topic (2016-) Language Production Sarkis, J. T., &amp;amp; Montag, J. L. (2020). The effect of lexical accessibility on Spanish-English intra-sentential codeswitching. Memory and Cognition, 1-18. pdf osf
-Montag, J. L., Matsuki, K., Kim, J. &amp;amp; MacDonald, M. C. (2017). The effects of word order on sentence structure choice in language production: A multi-clause and multi-language investigation. Collabra: Psychology, 3, 20.
-MacDonald, M. C., Montag, J. L., &amp;amp; Gennari, S.</description>
+      <guid>/topics/</guid>
+      <description>Topics we study in our lab Language Production  Testing theories regarding how the structure of message-level representations build speech.  Language Acquisition  Studying how children acquire language via quantitative and qualitative analyses of language exposure.  Computational Modeling  Building computational models of semantic development and memory.  Schizophrenia  Measuring disorganized speech and semantic cohesion in speech of schizophrenic patients.
+ Developing automated language evaluation to help researchers better understand speech pathology.</description>
     </item>
     
   </channel>
