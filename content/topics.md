@@ -5,7 +5,7 @@ layout = "single-para"
 
 ---
 
-## Topics we study in our lab
+A brief overview of the topics we study in our lab.
 
 ### Language Production
 
