@@ -132,7 +132,7 @@ __Email:__ kmkoch3@illinois.edu
 <img src="../img/jingfeng.jpg" alt="Jingfeng" width="200"/>
 
 Jingfeng Zhang is interested in developing statistical and neurally-inspired models of learning,
- and examining how the structure of environmental input affects computational models’ efficiency. 
+ and examining how the structure of environmental input affects the efficiency of computational models. 
  He is working on a project that aims to create a simulation of humans in a natural environment,
  using neural networks built with Unity3d to visualize the learning process
 
