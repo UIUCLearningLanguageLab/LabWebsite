@@ -124,3 +124,16 @@ __Email:__ marasli2@illinois.edu
 ### Katherine Koch 
 
 __Email:__ kmkoch3@illinois.edu
+
+## Undergraduate Research Assistants
+
+### Jingfeng Zhang
+
+<img src="../img/jingfeng.jpg" alt="Jacki" width="200"/>
+
+Jingfeng Zhang is interested in developing statistical and neurally-inspired models of learning,
+ and examining how the structure of environmental input affects computational models’ efficiency. 
+ He is working on a project that aims to create a simulation of humans in a natural environment,
+ using neural networks built with Unity3d to visualize the learning process
+
+__Github:__ https://github.com/cracrazjf
