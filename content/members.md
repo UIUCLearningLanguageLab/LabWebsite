@@ -129,7 +129,7 @@ __Email:__ kmkoch3@illinois.edu
 
 ### Jingfeng Zhang
 
-<img src="../img/jingfeng.jpg" alt="Jacki" width="200"/>
+<img src="../img/jingfeng.jpg" alt="Jingfeng" width="200"/>
 
 Jingfeng Zhang is interested in developing statistical and neurally-inspired models of learning,
  and examining how the structure of environmental input affects computational models’ efficiency. 
