@@ -115,18 +115,6 @@ Jacki Erens is interested in various aspects of language production, at both the
 
 __Email:__ marasli2@illinois.edu
 
-
-
----
-
-## Lab Management
-
-### Katherine Koch 
-
-__Email:__ kmkoch3@illinois.edu
-
-## Undergraduate Research Assistants
-
 ### Jingfeng Zhang
 
 <img src="../img/jingfeng.png" alt="Jingfeng" width="200"/>
@@ -137,3 +125,11 @@ Jingfeng Zhang is interested in developing statistical and neurally-inspired mod
  using neural networks built with Unity3d to visualize the learning process
 
 __Github:__ https://github.com/cracrazjf
+
+---
+
+## Lab Management
+
+### Katherine Koch 
+
+__Email:__ kmkoch3@illinois.edu
