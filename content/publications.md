@@ -7,11 +7,11 @@ layout = "single-para"
 
 ## Peer-reviewed Papers
 
-Huebner, P., & Willits, J. (2021). Scaffolded input promotes atomic organization in the recurrent neural network language model. Proceedings of CONLL 2021. <a href = "../pubs/Huebner_Atomicity_CONLL2021.pdf">pdf</a>
+Huebner, P., Willits, J. (2021). Scaffolded input promotes atomic organization in the recurrent neural network language model. Proceedings of CONLL 2021. <a href = "../pubs/Huebner_Atomicity_CONLL2021.pdf">pdf</a>
 
 Huebner, P., Sulem, E., Fisher, C., Roth, D. (2021). BabyBERTa: Learning More Grammar With Small-Scale Child-Directed Language. Proceedings of CONLL 2021. <a href = "../pubs/Huebner_BabyBERTa_CONLL2021.pdf">pdf</a>
 
-Huebner, P., & Willits, J. (2021). Using lexical context to discover the noun category: Younger children have it easier. Psychology of Learning and Motivation, 75. <a href = "../pubs/Huebner_PLM_2021.pdf">pdf</a>
+Huebner, P., Willits, J. (2021). Using lexical context to discover the noun category: Younger children have it easier. Psychology of Learning and Motivation, 75. <a href = "../pubs/Huebner_PLM_2021.pdf">pdf</a>
 
 Montag, J, L. (2021). Limited evidence for probability matching as a strategy in probability learning tasks. Psychology of Learning and Motivation, 74. <a href = "../pubs/Montag_PLM_2021.pdf">pdf</a>
 
@@ -19,7 +19,7 @@ Sarkis, J. T., & Montag, J. L. (2021). The effect of lexical accessibility on Sp
 
 Montag, J. L. (2019). Differences in sentence complexity in the text of children’s picture books and child-directed speech. First Language, 39, 527-546. <a href = "../pubs/Montag_2019.pdf">pdf</a> <a href = "https://osf.io/tjs2e/">osf</a>
 
-Huebner, P., & Willits, J. (2018). Structured semantic knowledge can emerge automatically from predicting word sequences in child-directed speech. Frontiers in Psychology, 9, 133.
+Huebner, P. & Willits, J. (2018). Structured semantic knowledge can emerge automatically from predicting word sequences in child-directed speech. Frontiers in Psychology, 9, 133.
 
 Minor, K. S., Willits, J. A., Marggraf, M. P., Jones, M. N. (2018) Measuring disorganized speech in schizophrenia: automated analysis explains variance in cognitive deficits beyond clinician-rated scales. Psychological Medicine, 1-9.
 
@@ -49,7 +49,7 @@ Willits, J. A., Wojcik, E. H., Seidenberg, M. S., & Saffran, J. R. (2013). Toddl
 
 ## Refereed Conference Papers
 
-Stoops, A., & Montag, J.L. (July 2020). Novel Corpus of Book Reading Sessions Recorded at Home. Poster presented at the Cognitive Science Society Annual Virtual Meeting (CogSci 2020). Toronto, Canada  <a href = "https://www.researchgate.net/publication/343350668_Novel_Corpus_of_Book_Reading_Sessions_Recorded_at_Home">pdf</a>
+Stoops, A. & Montag, J.L. (July 2020). Novel Corpus of Book Reading Sessions Recorded at Home. Poster presented at the Cognitive Science Society Annual Virtual Meeting (CogSci 2020). Toronto, Canada  <a href = "https://www.researchgate.net/publication/343350668_Novel_Corpus_of_Book_Reading_Sessions_Recorded_at_Home">pdf</a>
 
 Montag, J. L. (2020). New insights from daylong audio transcripts of children’s language environments. Proceedings of the 41st Annual Conference of the Cognitive Science Society (pp.). Toronto, ON, Canada: Cognitive Science Society. <a href = "../pubs/Montag_CogSci_2020_final.pdf">pdf</a>
 
@@ -105,11 +105,11 @@ Montag, J. L., Jones, M. N. & Smith, L. B. (2017). Simulations of early word lea
 
 Mech, E. N., Montag, J. L., & Kroll, J. F. (2017). The consequences of second language experience for language learning. Poster presented at the 11th Annual International Symposium on Bilingualism, Limerick, Ireland.
 
-Huebner, P., & Willits, J. A., (2017). The interaction of input structure and cognitive architecture in a model of semantic development. Talk presented at the 12th Annual SoCal Conference on Cognitive and Language Development.
+Huebner, P. & Willits, J. A., (2017). The interaction of input structure and cognitive architecture in a model of semantic development. Talk presented at the 12th Annual SoCal Conference on Cognitive and Language Development.
 
-Huebner, P., & Willits, J. A. (2016). Learning to predict words gives children semantic knowledge for free. Poster presented at the 57th Annual Meeting of the Psychonomic Society. Boston, MA.
+Huebner, P. & Willits, J. A. (2016). Learning to predict words gives children semantic knowledge for free. Poster presented at the 57th Annual Meeting of the Psychonomic Society. Boston, MA.
 
-Huebner, P., & Willits, J. A. (2016). A Recurrent Neural Network Model of the Development of Child Productive Vocabulary. Poster presented at the International Workshop on Language Production.
+Huebner, P. & Willits, J. A. (2016). A Recurrent Neural Network Model of the Development of Child Productive Vocabulary. Poster presented at the International Workshop on Language Production.
 
 Willits, J. A., Jones, M. N., David, L. (2016). Learning that numbers are the same, while learning that they are different. Talk presented at the 38th Annual Conference of the Cognitive Science Society.
 
@@ -129,13 +129,13 @@ Willits, J. A., & Jones, M. N. (2014). What can children learn from 6 million wo
 
 Shaoul, C., & Willits, J. A. (2014). Modeling multiple aspects of language acquisition using Naïve Discrimination Learning. Talk presented at the 44th Annual Meeting of the Society for Computers in Psychology: Long Beach, CA.
 
-Willits, J. A., & Jones, M. N. (2014). What can children learn from 6 million words? Poster presented at the 39th Annual Boston University Conference on Language Development: Boston, MA.
+Willits, J. A. & Jones, M. N. (2014). What can children learn from 6 million words? Poster presented at the 39th Annual Boston University Conference on Language Development: Boston, MA.
 
 Montag, J. L. & MacDonald, M. C. (2014). Effects of text exposure on spoken sentence production. Talk presented at the 36th Annual Cognitive Science Society Meeting, Quebec City, Canada.
 
 Rubin, T., Kievit-Kylar, B., Willits, J. A., & Jones, M. N. (2014, Jul.). Organizing the space and behavior of semantic models. Talk presented at the 32nd Annual Meeting of the Cognitive Science Society.
 
-Willits, J. A., & Jones, M. N. (2014, Jun.). What words do children say first? Factoring inflectional morphology into word statistic-based predictions of age of acquisition Talk presented at the 2014 International Conference on Infant Studies: Berlin, Germany.
+Willits, J. A. & Jones, M. N. (2014, Jun.). What words do children say first? Factoring inflectional morphology into word statistic-based predictions of age of acquisition Talk presented at the 2014 International Conference on Infant Studies: Berlin, Germany.
 
 Montag, J. L. & MacDonald, M. C. (2014). Text exposure may affect relative clause use in children and adults. Poster presented at the 27th Annual CUNY Conference on Human Sentence Processing, Columbus, OH.
 
