@@ -56,7 +56,7 @@ __Email:__ huebner3@illinois.edu
 
 __Github:__ https://github.com/phueb
 
-__ResearchGate:__ https://researchgate.net/profile/Philip_Huebner
+__Personal Website:__ https://philhuebner.com
 	
 Philip Huebner studies computational models of language acquisition,
  and in particular RNN and Transformer-based language models.
