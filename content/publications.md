@@ -53,7 +53,7 @@ Mao, S., Huebner, P. A., Willits, J. A. (2022). Compositional Generalization in 
 
 Stoops, A. & Montag, J. L. (2020). Novel Corpus of Book Reading Sessions Recorded at Home. Poster presented at the Cognitive Science Society Annual Virtual Meeting (CogSci 2020). Toronto, Canada  <a href = "https://www.researchgate.net/publication/343350668_Novel_Corpus_of_Book_Reading_Sessions_Recorded_at_Home">pdf</a>
 
-Montag, J. L. (2020). New insights from daylong audio transcripts of children’s language environments. Proceedings of the 41st Annual Conference of the Cognitive Science Society (pp.). Toronto, ON, Canada: Cognitive Science Society. <a href = "../pubs/Montag_CogSci_2020_final.pdf">pdf</a>
+Montag, J. L. (2020). New insights from daylong audio transcripts of children’s language environments. Proceedings of the 42nd Annual Conference of the Cognitive Science Society (pp.). Toronto, ON, Canada: Cognitive Science Society. <a href = "../pubs/Montag_CogSci_2020_final.pdf">pdf</a>
 
 Huebner, P. A., & Willits, J. A. (2018). Order matters: Distributional properties of speech to young children bootstraps learning of semantic representations. Proceedings of the 40th Annual Conference of the Cognitive Science Society. (pp. 1799-1805). 
 
