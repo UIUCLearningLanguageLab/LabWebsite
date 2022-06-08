@@ -49,31 +49,33 @@ Willits, J. A., Wojcik, E. H., Seidenberg, M. S., & Saffran, J. R. (2013). Toddl
 
 ## Refereed Conference Papers
 
-Stoops, A. & Montag, J.L. (July 2020). Novel Corpus of Book Reading Sessions Recorded at Home. Poster presented at the Cognitive Science Society Annual Virtual Meeting (CogSci 2020). Toronto, Canada  <a href = "https://www.researchgate.net/publication/343350668_Novel_Corpus_of_Book_Reading_Sessions_Recorded_at_Home">pdf</a>
+Mao, S., Huebner, P. A., Willits, J. A. (2022). Compositional Generalization in a Graph-based Model of Distributional Semantics. In Proceedings of the 43rd Annual Conference of the Cognitive Science Society.  <a href = "../pubs/Mao_CogSci_2022.pdf">pdf</a>
+
+Stoops, A. & Montag, J. L. (2020). Novel Corpus of Book Reading Sessions Recorded at Home. Poster presented at the Cognitive Science Society Annual Virtual Meeting (CogSci 2020). Toronto, Canada  <a href = "https://www.researchgate.net/publication/343350668_Novel_Corpus_of_Book_Reading_Sessions_Recorded_at_Home">pdf</a>
 
 Montag, J. L. (2020). New insights from daylong audio transcripts of children’s language environments. Proceedings of the 41st Annual Conference of the Cognitive Science Society (pp.). Toronto, ON, Canada: Cognitive Science Society. <a href = "../pubs/Montag_CogSci_2020_final.pdf">pdf</a>
 
-Huebner, P. A., & Willits, J. A. (2018). Order matters: Distributional properties of speech to young children bootstraps learning of semantic representations. Proceedings of the 40th Annual Conference of the Cognitive Science Society. (pp. 1799-1805). Austin, TX: Cognitive Science Soceity.
+Huebner, P. A., & Willits, J. A. (2018). Order matters: Distributional properties of speech to young children bootstraps learning of semantic representations. Proceedings of the 40th Annual Conference of the Cognitive Science Society. (pp. 1799-1805). 
 
-Willits, J. A., Jones, M. N., David, L. (2016). Learning that numbers are the same, while learning that they are different. Proceedings of the 38th Annual Conference of the Cognitive Science Society. (pp. 1799-1805). Austin, TX: Cognitive Science Soceity.
+Willits, J. A., Jones, M. N., David, L. (2016). Learning that numbers are the same, while learning that they are different. Proceedings of the 38th Annual Conference of the Cognitive Science Society. (pp. 1799-1805).
 
-Asr, F. T., Willits, J.A., Jones, M. N. (2016). Comparing predictive and co-occurrence based models of lexical semantics trained on child-directed speech. The 38th Annual Conference of the Cognitive Science Society. (pp. 1092-1097). Austin, TX: Cognitive Science Soceity.
+Asr, F. T., Willits, J.A., Jones, M. N. (2016). Comparing predictive and co-occurrence based models of lexical semantics trained on child-directed speech. The 38th Annual Conference of the Cognitive Science Society. (pp. 1092-1097). 
 
-Montag, J. L. & MacDonald, M. C. (2014). Effects of text exposure on spoken sentence production. In P. Bello, M. Guarini, M. McShane, & B. Scassellati (Eds.), Proceedings of the 36th Annual Conference of the Cognitive Science Society (pp. 1030-1035). Austin, TX: Cognitive Science Society.
+Montag, J. L. & MacDonald, M. C. (2014). Effects of text exposure on spoken sentence production. In P. Bello, M. Guarini, M. McShane, & B. Scassellati (Eds.), Proceedings of the 36th Annual Conference of the Cognitive Science Society (pp. 1030-1035). 
 
-Rubin, T., Kievit-Kylar, B., Willits, J. A., & Jones, M. N. (2014). Organizing the space and behavior of semantic models. In P. Bello, M. Guarini, M. McShane, & Scassellati (Eds.), Proceedings of the 32nd Annual Conference of the Cognitive Science Society (pp. X-X). Austin, TX: Cognitive Science Society.
+Rubin, T., Kievit-Kylar, B., Willits, J. A., & Jones, M. N. (2014). Organizing the space and behavior of semantic models. In P. Bello, M. Guarini, M. McShane, & Scassellati (Eds.), Proceedings of the 32nd Annual Conference of the Cognitive Science Society (pp. X-X). 
 
 Montag, J. L. & MacDonald, M. C. (2013). Choice of referring expression subject to visual context, linguistic context and competition. In A. Gatt, R. van Gompel, E. G. Bard, E. Krahmer, & D. van Deemter (Eds.) Production of Referring Expressions: Bridging the gap between cognitive and computational approaches to reference.
 
-Willits, J. A. (2013). Nonadjacent dependencies in language and thought: Not so difficult after all. In N. Taatgen, H. van Rijn, L. Schomaker, & J. Nerbonne (Eds.), Proceedings of the 31st Annual Conference of the Cognitive Science Society (pp. 2570-2575). Austin, TX: Cognitive Science Society.
+Willits, J. A. (2013). Nonadjacent dependencies in language and thought: Not so difficult after all. In N. Taatgen, H. van Rijn, L. Schomaker, & J. Nerbonne (Eds.), Proceedings of the 31st Annual Conference of the Cognitive Science Society (pp. 2570-2575). 
 
-Montag, J. L. & MacDonald, M. C. (2009). Word order doesn't matter: Relative clause production in English and Japanese. In N.A. Taatgen & H. van Rijn (Eds.), Proceedings of the 31th Annual Meeting of the Cognitive Science Society (pp. 2594-2599). Austin, TX: Cognitive Science Society.
+Montag, J. L. & MacDonald, M. C. (2009). Word order doesn't matter: Relative clause production in English and Japanese. In N.A. Taatgen & H. van Rijn (Eds.), Proceedings of the 31th Annual Meeting of the Cognitive Science Society (pp. 2594-2599). 
 
-Willits, J. A., Seidenberg, M. S., & Saffran, J. R. (2009). Verbs are lookING good in early language acquisition. In N. Taatgen, H. van Rijn, L. Schomaker, & J. Nerbonne (Eds.), Proceedings of the 31st Annual Conference of the Cognitive Science Society (pp. 2570-2575). Austin, TX: Cognitive Science Society.
+Willits, J. A., Seidenberg, M. S., & Saffran, J. R. (2009). Verbs are lookING good in early language acquisition. In N. Taatgen, H. van Rijn, L. Schomaker, & J. Nerbonne (Eds.), Proceedings of the 31st Annual Conference of the Cognitive Science Society (pp. 2570-2575). 
 
-Willits, J. A., Amato, M. S., & Sussman, R. S. (2008). Event knowledge versus verb knowledge. In V. Sloutsky, B. Love, & K. McRae (Eds.), Proceedings of the 30th Annual Conference of the Cognitive Science Society (pp. 2227-2232). Austin, TX: Cognitive Science Society.
+Willits, J. A., Amato, M. S., & Sussman, R. S. (2008). Event knowledge versus verb knowledge. In V. Sloutsky, B. Love, & K. McRae (Eds.), Proceedings of the 30th Annual Conference of the Cognitive Science Society (pp. 2227-2232). 
 
-Willits, J. A., Duran, N. D., D’Mello, S. K., & Olney, A. (2007). Distributional statistics and thematic role relationships. In D. McNamara, & G. Trafton (Eds.), Proceedings of the 29th Annual Conference of the Cognitive Science Society (pp. 707-712). Austin, TX: Cognitive Science Society.
+Willits, J. A., Duran, N. D., D’Mello, S. K., & Olney, A. (2007). Distributional statistics and thematic role relationships. In D. McNamara, & G. Trafton (Eds.), Proceedings of the 29th Annual Conference of the Cognitive Science Society (pp. 707-712). 
 
 ## Talks & Presentations
 
