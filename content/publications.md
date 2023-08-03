@@ -7,45 +7,45 @@ layout = "single-para"
 
 ## Peer-reviewed Papers
 
-Mao, S., Huebner, P., & Willits, J. A. (2023). Spatial vs. graphical representation of Distributional semantic knowledge. Psychological Review, in press. [pdf](../pubs/maohuebnerwillits2023.pdf")
+Mao, S., Huebner, P., & Willits, J. A. (2023). Spatial vs. graphical representation of Distributional semantic knowledge. Psychological Review, in press. [pdf](../pubs/maohuebnerwillits2023.pdf)
 
-Flores, A. Z., Montag, J. L., & Willits, J. A. (2023). Using known words to learn more words: A distributional model of child vocabulary acquisition. Journal of Memory and Language, 132, 104446. [pdf](../pubs/floresmontagwillits2023.pdf")
+Flores, A. Z., Montag, J. L., & Willits, J. A. (2023). Using known words to learn more words: A distributional model of child vocabulary acquisition. Journal of Memory and Language, 132, 104446. [pdf](../pubs/floresmontagwillits2023.pdf)
 
-Huebner, P., Willits, J. (2021). Scaffolded input promotes atomic organization in the recurrent neural network language model. Proceedings of CONLL 2021. [pdf](../pubs/Huebner_Atomicity_CONLL2021.pdf")
+Huebner, P., Willits, J. (2021). Scaffolded input promotes atomic organization in the recurrent neural network language model. Proceedings of CONLL 2021. [pdf](../pubs/Huebner_Atomicity_CONLL2021.pdf)
 
-Huebner, P., Sulem, E., Fisher, C., Roth, D. (2021). BabyBERTa: Learning More Grammar With Small-Scale Child-Directed Language. Proceedings of CONLL 2021. [pdf](../pubs/Huebner_BabyBERTa_CONLL2021.pdf")
+Huebner, P., Sulem, E., Fisher, C., Roth, D. (2021). BabyBERTa: Learning More Grammar With Small-Scale Child-Directed Language. Proceedings of CONLL 2021. [pdf](../pubs/Huebner_BabyBERTa_CONLL2021.pdf)
 
-Huebner, P., Willits, J. (2021). Using lexical context to discover the noun category: Younger children have it easier. Psychology of Learning and Motivation, 75. [pdf](../pubs/Huebner_PLM_2021.pdf")
+Huebner, P., Willits, J. (2021). Using lexical context to discover the noun category: Younger children have it easier. Psychology of Learning and Motivation, 75. [pdf](../pubs/Huebner_PLM_2021.pdf)
 
 Montag, J, L. (2021). Limited evidence for probability matching as a strategy in probability learning tasks. Psychology of Learning and Motivation, 74. [pdf](../pubs/Montag_PLM_2021.pdf)
 
-Sarkis, J. T. & Montag, J. L. (2021). The effect of lexical accessibility on Spanish-English intra-sentential codeswitching. Memory and Cognition, 49, 163-180. [pdf](../pubs/Sarkis&Montag_2020.pdf") [osf]("https://osf.io/uchpv/")
+Sarkis, J. T. & Montag, J. L. (2021). The effect of lexical accessibility on Spanish-English intra-sentential codeswitching. Memory and Cognition, 49, 163-180. [pdf](../pubs/Sarkis&Montag_2020.pdf) [osf](https://osf.io/uchpv/)
 
-Montag, J. L. (2019). Differences in sentence complexity in the text of children’s picture books and child-directed speech. First Language, 39, 527-546. [pdf](../pubs/Montag_2019.pdf") [osf]("https://osf.io/tjs2e/")
+Montag, J. L. (2019). Differences in sentence complexity in the text of children’s picture books and child-directed speech. First Language, 39, 527-546. [pdf](../pubs/Montag_2019.pdf) [osf]("https://osf.io/tjs2e/)
 
 Huebner, P. & Willits, J. (2018). Structured semantic knowledge can emerge automatically from predicting word sequences in child-directed speech. Frontiers in Psychology, 9, 133.
 
 Minor, K. S., Willits, J. A., Marggraf, M. P., Jones, M. N. (2018) Measuring disorganized speech in schizophrenia: automated analysis explains variance in cognitive deficits beyond clinician-rated scales. Psychological Medicine, 1-9.
 
-Montag, J. L., Jones, M. N., & Smith, L. B. (2018). Quantity and diversity: Simulations of early word learning environments. Cognitive Science, 42, 375-412. [pdf](../pubs/Montag_Jones&Smith_CogSci_2018.pdf")
+Montag, J. L., Jones, M. N., & Smith, L. B. (2018). Quantity and diversity: Simulations of early word learning environments. Cognitive Science, 42, 375-412. [pdf](../pubs/Montag_Jones&Smith_CogSci_2018.pdf)
 
 Willits, J. A., Rubin, T., Jones, M.N., Minor, K. S., & Lysaker, P. H. (2018). Evidence of disturbances of deep levels of semantic cohesion within personal narratives in schizophrenia. Schizophrenia Research, 197, 365-369.
 
 Baayen, R. H., Shaoul, C., Willits, J. A. and Ramscar, M. (2017). Comprehension without segmentation: A proof of concept with naive discrimination learning. Language, Cognition, and Neuroscience, 31(1), 106-128..
 
-Montag, J. L., Matsuki, K., Kim, J. & MacDonald, M. C. (2017). The effects of word order on sentence structure choice in language production: A multi-clause and multi-language investigation. Collabra: Psychology, 3, 20. [pdf](../pubs/Montag_etal_Collabra_2017.pdf")
+Montag, J. L., Matsuki, K., Kim, J. & MacDonald, M. C. (2017). The effects of word order on sentence structure choice in language production: A multi-clause and multi-language investigation. Collabra: Psychology, 3, 20. [pdf](../pubs/Montag_etal_Collabra_2017.pdf)
 
-MacDonald, M. C., Montag, J. L., & Gennari, S. P. (2016). Are there really syntactic complexity effects in sentence production?: A reply to Scontras et al. Cognitive Science, 40, 513-518. [pdf](../pubs/MacDonald_Montag&Gennari_Cogsci_2016.pdf")
+MacDonald, M. C., Montag, J. L., & Gennari, S. P. (2016). Are there really syntactic complexity effects in sentence production?: A reply to Scontras et al. Cognitive Science, 40, 513-518. [pdf](../pubs/MacDonald_Montag&Gennari_Cogsci_2016.pdf)
 
-Montag, J. L., Jones, M. N., & Smith, L. B. (2015). The words children hear: Picture books and the statistics of language learning. Psychological Science, 26, 1489-1496. [pdf](../pubs/Montag_Jones&Smith_PsychScience_2015.pdf")
+Montag, J. L., Jones, M. N., & Smith, L. B. (2015). The words children hear: Picture books and the statistics of language learning. Psychological Science, 26, 1489-1496. [pdf](../pubs/Montag_Jones&Smith_PsychScience_2015.pdf)
 
-Montag, J. L. & MacDonald, M. C. (2015). Text exposure predicts spoken production of complex sentences in 8- and 12- year old children and adults. Journal of Experimental Psychology: General, 144, 447-468. [pdf](../pubs/Montag&MacDonald_JEPG_2015.pdf")
+Montag, J. L. & MacDonald, M. C. (2015). Text exposure predicts spoken production of complex sentences in 8- and 12- year old children and adults. Journal of Experimental Psychology: General, 144, 447-468. [pdf](../pubs/Montag&MacDonald_JEPG_2015.pdf)
 
 Willits, J. A., Amato, M. S., & MacDonald, M. C. (2015). Verb knowledge and event knowledge in language processing. Cognitive Psychology, 78, 1-27.
 
-Montag, J. L., AuBuchon, A. M., Pisoni, D. B. & Kronenberger, W. G. (2014). Speech intelligibility in early-implanted deaf children after long-term cochlear implant use. Journal of Speech, Language and Hearing Research, 57, 2332-2343. [pdf](../pubs/Montag_etal_JSLHR_2014.pdf")
+Montag, J. L., AuBuchon, A. M., Pisoni, D. B. & Kronenberger, W. G. (2014). Speech intelligibility in early-implanted deaf children after long-term cochlear implant use. Journal of Speech, Language and Hearing Research, 57, 2332-2343. [pdf](../pubs/Montag_etal_JSLHR_2014.pdf)
 
-Montag, J. L. & MacDonald, M. C. (2014). Visual salience modulates structure choice in relative clause production. Language and Speech, 57, 163-180. [pdf](../pubs/Montag&MacDonald_2014.pdf")
+Montag, J. L. & MacDonald, M. C. (2014). Visual salience modulates structure choice in relative clause production. Language and Speech, 57, 163-180. [pdf](../pubs/Montag&MacDonald_2014.pdf)
 
 Willits, J. A., Seidenberg, M. S., & Saffran, J. R. (2014). Statistical structure in language: Contributions to noun-verb differences in acquisition. Cognition, 132, 429-436.
 
@@ -53,11 +53,11 @@ Willits, J. A., Wojcik, E. H., Seidenberg, M. S., & Saffran, J. R. (2013). Toddl
 
 ## Refereed Conference Papers
 
-Mao, S., Huebner, P. A., Willits, J. A. (2022). Compositional Generalization in a Graph-based Model of Distributional Semantics. In Proceedings of the 43rd Annual Conference of the Cognitive Science Society.  [pdf](../pubs/Mao_CogSci_2022.pdf")
+Mao, S., Huebner, P. A., Willits, J. A. (2022). Compositional Generalization in a Graph-based Model of Distributional Semantics. In Proceedings of the 43rd Annual Conference of the Cognitive Science Society.  [pdf](../pubs/Mao_CogSci_2022.pdf)
 
-Stoops, A. & Montag, J. L. (2020). Novel Corpus of Book Reading Sessions Recorded at Home. Poster presented at the Cognitive Science Society Annual Virtual Meeting (CogSci 2020). Toronto, Canada  [pdf]("https://www.researchgate.net/publication/343350668_Novel_Corpus_of_Book_Reading_Sessions_Recorded_at_Home")
+Stoops, A. & Montag, J. L. (2020). Novel Corpus of Book Reading Sessions Recorded at Home. Poster presented at the Cognitive Science Society Annual Virtual Meeting (CogSci 2020). Toronto, Canada  [pdf]("https://www.researchgate.net/publication/343350668_Novel_Corpus_of_Book_Reading_Sessions_Recorded_at_Home)
 
-Montag, J. L. (2020). New insights from daylong audio transcripts of children’s language environments. Proceedings of the 42nd Annual Conference of the Cognitive Science Society (pp.). Toronto, ON, Canada: Cognitive Science Society. [pdf](../pubs/Montag_CogSci_2020_final.pdf")
+Montag, J. L. (2020). New insights from daylong audio transcripts of children’s language environments. Proceedings of the 42nd Annual Conference of the Cognitive Science Society (pp.). Toronto, ON, Canada: Cognitive Science Society. [pdf](../pubs/Montag_CogSci_2020_final.pdf)
 
 Huebner, P. A., & Willits, J. A. (2018). Order matters: Distributional properties of speech to young children bootstraps learning of semantic representations. Proceedings of the 40th Annual Conference of the Cognitive Science Society. (pp. 1799-1805). 
 
@@ -83,7 +83,7 @@ Willits, J. A., Duran, N. D., D’Mello, S. K., & Olney, A. (2007). Distribution
 
 ## Talks & Presentations
 
-Stoops, A., Huang, J., Wu, M., & Montag, J. (March, 2021). Complex syntax and conversational turn-taking during toddler-adult picture book reading. Short talk given at the 34th Annual CUNY Conference on Human Sentence Processing. Philadelphia, PA [pdf]("https://www.cuny2021.io/wp-content/uploads/2021/02/CUNY_2021_abstract_80.pdf")
+Stoops, A., Huang, J., Wu, M., & Montag, J. (March, 2021). Complex syntax and conversational turn-taking during toddler-adult picture book reading. Short talk given at the 34th Annual CUNY Conference on Human Sentence Processing. Philadelphia, PA [pdf]("https://www.cuny2021.io/wp-content/uploads/2021/02/CUNY_2021_abstract_80.pdf)
 
 Montag, J. L. (2018) Assessing reading experience in heritage Spanish-speaking undergraduates. Talk presented at the 3rd International Conference on Heritage/Community Languages, Los Angeles, CA.
 
