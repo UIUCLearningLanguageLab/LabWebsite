@@ -1,15 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>L&amp;L Lab</title>
     <link>/</link>
     <description>Recent content on L&amp;L Lab</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About our Lab</title>
       <link>/about/</link>
@@ -59,9 +55,7 @@ Jon Willits studies language and learning in infants, children, adults, and mach
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/publications/</guid>
-      <description>Peer-reviewed Papers Huebner, P., Willits, J. (2021). Scaffolded input promotes atomic organization in the recurrent neural network language model. Proceedings of CONLL 2021. pdf
-Huebner, P., Sulem, E., Fisher, C., Roth, D. (2021). BabyBERTa: Learning More Grammar With Small-Scale Child-Directed Language. Proceedings of CONLL 2021. pdf
-Huebner, P., Willits, J. (2021). Using lexical context to discover the noun category: Younger children have it easier. Psychology of Learning and Motivation, 75.</description>
+      <description>Peer-reviewed Papers Mao, S., Huebner, P., &amp;amp; Willits, J. A. (2023). Spatial vs. graphical representation of dDistributional semantic knowledge. Psychological Review, in press. Flores, A. Z., Montag, J. L., &amp;amp; Willits, J. A. (2023). Using known words to learn more words: A distributional model of child vocabulary acquisition. Journal of Memory and Language, 132, 104446. Huebner, P., Willits, J. (2021). Scaffolded input promotes atomic organization in the recurrent neural network language model.</description>
     </item>
     
     <item>
@@ -84,8 +78,8 @@ Natural Language Data AO-CHILDES To create a custom text corpus of American-Engl
       
       <guid>/topics/</guid>
       <description>A brief overview of the topics we study in our lab.
-Language Production  Testing theories regarding how the structure of message-level representations build speech.  Language Acquisition  Studying how children acquire language via quantitative and qualitative analyses of language exposure.  Computational Modeling  Building computational models of semantic development and memory.  Schizophrenia  Measuring disorganized speech and semantic cohesion in speech of schizophrenic patients.
- Developing automated language evaluation to help researchers better understand speech pathology.</description>
+Language Production Testing theories regarding how the structure of message-level representations build speech. Language Acquisition Studying how children acquire language via quantitative and qualitative analyses of language exposure. Computational Modeling Building computational models of semantic development and memory. Schizophrenia Measuring disorganized speech and semantic cohesion in speech of schizophrenic patients.
+Developing automated language evaluation to help researchers better understand speech pathology.</description>
     </item>
     
   </channel>
