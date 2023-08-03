@@ -7,9 +7,9 @@ layout = "single-para"
 
 ## Peer-reviewed Papers
 
-Mao, S., Huebner, P., & Willits, J. A. (2023). Spatial vs. graphical representation of dDistributional semantic knowledge. Psychological Review, in press. <a href = "../pubs/maohuebnerwillits2023.pdf">
+Mao, S., Huebner, P., & Willits, J. A. (2023). Spatial vs. graphical representation of Distributional semantic knowledge. Psychological Review, in press. <a href = "../pubs/maohuebnerwillits2023.pdf">pdf</a>
 
-Flores, A. Z., Montag, J. L., & Willits, J. A. (2023). Using known words to learn more words: A distributional model of child vocabulary acquisition. Journal of Memory and Language, 132, 104446. <a href = "../pubs/floresmontagwillits2023.pdf">
+Flores, A. Z., Montag, J. L., & Willits, J. A. (2023). Using known words to learn more words: A distributional model of child vocabulary acquisition. Journal of Memory and Language, 132, 104446. <a href = "../pubs/floresmontagwillits2023.pdf">pdf</a>
 
 Huebner, P., Willits, J. (2021). Scaffolded input promotes atomic organization in the recurrent neural network language model. Proceedings of CONLL 2021. <a href = "../pubs/Huebner_Atomicity_CONLL2021.pdf">pdf</a>
 
