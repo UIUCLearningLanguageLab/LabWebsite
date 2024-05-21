@@ -5,7 +5,7 @@ layout = "single-para"
 
 ---
 ## Active Studies
-[Adolescent Reading Study](http://learninglanguagelab.com/adolsecent_reading_study/)
+[Adolescent Reading Study](http://learninglanguagelab.com/adolescent_reading_study/)
 
 ## Volunteers Needed for Our Research!
 
