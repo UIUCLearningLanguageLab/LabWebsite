@@ -7,6 +7,8 @@ layout = "single-para"
 
 ## Peer-reviewed Papers
 
+Stoops, A. A. & Montag, J. L. (2024). The Stoops-Montag picture book reading corpus. Available on CHILDES online repository. doi:10.21415/2RD6-0H36
+
 Stoops, A. & Montag, J. L. (2023). Effects of individual differences in text exposure on sentence comprehension. Scientific Reports, 13, 16812.
 
 Mao, S., Huebner, P., & Willits, J. A. (2023). Spatial vs. graphical representation of Distributional semantic knowledge. Psychological Review, in press. [pdf](../pubs/maohuebnerwillits2023.pdf)
