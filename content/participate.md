@@ -9,7 +9,7 @@ layout = "single-para"
 
 ## Volunteers Needed for Our Research!
 
-If you have a child between about 6 months and 6 years old, we'd be thrilled if you and your child would participate in our studies of learning and language. Children are learning vast amounts of information from the earliest moments. We study how children learn language and other kinds of knowledge, including what words mean, how to talk and understand language, and how to read. You can help us with our research by participating in one of our fun and interesting studies.
+If you have a child between about 6 months and 17 years old, we'd be thrilled if you and your child would participate in our studies of learning and language. Children are learning vast amounts of information from the earliest moments. We study how children learn language and other kinds of knowledge, including what words mean, how to talk and understand language, and how to read. You can help us with our research by participating in one of our fun and interesting studies.
 
 ## What is a typical study like? 
 
@@ -25,7 +25,7 @@ The results from our studies are typically first presented at professional scien
 
 ## How can I participate?
 
-We are always in need of more participants to help us explore children's learning and language development. If you would like to participate with your child in one of our studies, or have questions, please contact us at psychlearninglab@illinois.edu or (217) 300-7022. We would be very happy to hear from you!
+We are always in need of more participants to help us explore children's learning and language development. If you would like to participate with your child in one of our studies, or have questions, please contact us at jmontag@illinois.edu. We would be very happy to hear from you!
 
 An appointment can be made to suit your schedule (mornings, afternoons, or evenings). Free parking, toys to play with and baby-sitting for siblings are all provided at the lab. Every child who participates can choose a prize to take home – our way of saying thanks.
 
