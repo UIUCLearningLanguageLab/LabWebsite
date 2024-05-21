@@ -25,7 +25,7 @@ The results from our studies are typically first presented at professional scien
 
 ## How can I participate?
 
-We are always in need of more participants to help us explore children's learning and language development. If you would like to participate with your child in one of our studies, or have questions, please contact us at jmontag@illinois.edu. We would be very happy to hear from you!
+If you would like to participate in one of our studies, click on the studies listed under "Active Studies" at the top of this page. We would be very happy to hear from you!
 
 An appointment can be made to suit your schedule (mornings, afternoons, or evenings). Free parking, toys to play with and baby-sitting for siblings are all provided at the lab. Every child who participates can choose a prize to take home – our way of saying thanks.
 
