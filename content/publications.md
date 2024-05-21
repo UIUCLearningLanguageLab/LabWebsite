@@ -7,11 +7,15 @@ layout = "single-para"
 
 ## Peer-reviewed Papers
 
-TEST
+Stoops, A. & Montag, J. L. (2023). Effects of individual differences in text exposure on sentence comprehension. Scientific Reports, 13, 16812.
 
 Mao, S., Huebner, P., & Willits, J. A. (2023). Spatial vs. graphical representation of Distributional semantic knowledge. Psychological Review, in press. [pdf](../pubs/maohuebnerwillits2023.pdf)
 
 Flores, A. Z., Montag, J. L., & Willits, J. A. (2023). Using known words to learn more words: A distributional model of child vocabulary acquisition. Journal of Memory and Language, 132, 104446. [pdf](../pubs/floresmontagwillits2023.pdf)
+
+Macbeth, A., Atagi, N., Montag, J. L., Bruni, M., & Chiarello, C. (2022). Assessing language background and experience among heritage bilinguals. Frontiers in Psychology, 13:993669.
+
+Macbeth, A., Bruni, M., De La Cruz, B., Erens, J. A., Atagi, N., Robbins, M. L., Chiarello, C., Montag, J. L. (2022). Using the Electronically Activated Recorder (EAR) to capture the day-to-day linguistic experiences of young adults. Collabra: Psychology, 8(1).
 
 Huebner, P., Willits, J. (2021). Scaffolded input promotes atomic organization in the recurrent neural network language model. Proceedings of CONLL 2021. [pdf](../pubs/Huebner_Atomicity_CONLL2021.pdf)
 
@@ -54,6 +58,8 @@ Willits, J. A., Seidenberg, M. S., & Saffran, J. R. (2014). Statistical structur
 Willits, J. A., Wojcik, E. H., Seidenberg, M. S., & Saffran, J. R. (2013). Toddlers activate lexical semantic knowledge in the absence of visual referents: evidence from auditory priming. Infancy, 18, 1053-1075.
 
 ## Refereed Conference Papers
+
+Marasli, Z. B. & Montag, J. L. (2023). Optimizing random time sampling of daylong audio. Proceedings of the 42nd Annual Conference of the Cognitive Science Society (pp. 87-94). Sydney, NSW, Australia: Cognitive Science Society.
 
 Mao, S., Huebner, P. A., Willits, J. A. (2022). Compositional Generalization in a Graph-based Model of Distributional Semantics. In Proceedings of the 43rd Annual Conference of the Cognitive Science Society.  [pdf](../pubs/Mao_CogSci_2022.pdf)
 
