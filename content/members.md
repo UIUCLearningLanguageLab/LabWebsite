@@ -102,13 +102,6 @@ __Email:__ smao9@illinois.edu
 
 Shufan Mao is interested in representation of semantics, concept, and meanings. He is working on a distributional representation of concept and semantics using a network model which integrates distributional semantics, formal semantics and network science.
 
-### Jacki Erens
-
-<img src="../img/jacki.jpg" alt="Jacki" width="200"/>
-
-__Email:__ jerens2@illinois.edu
-
-Jacki Erens is interested in various aspects of language production, at both the word and sentence level.
 
 ### Zeynep Marasli
 
@@ -125,6 +118,11 @@ Jingfeng Zhang is interested in developing statistical and neurally-inspired mod
  using neural networks built with Unity3d to visualize the learning process
 
 __Github:__ https://github.com/cracrazjf
+
+### Maily Galindo
+
+
+__Email:__ mailyg2@illinois.edu
 
 ---
 
