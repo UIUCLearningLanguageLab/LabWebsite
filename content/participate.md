@@ -4,14 +4,14 @@ layout = "single-para"
 +++
 
 ---
-## Active Studies
+### Active Studies
 [Adolescent Reading Study](http://learninglanguagelab.com/adolescent_reading_study/)
 
-## Volunteers Needed for Our Research!
+### Volunteers Needed for Our Research!
 
 If you have a child between about 6 months and 17 years old, we'd be thrilled if you and your child would participate in our studies of learning and language. Children are learning vast amounts of information from the earliest moments. We study how children learn language and other kinds of knowledge, including what words mean, how to talk and understand language, and how to read. You can help us with our research by participating in one of our fun and interesting studies.
 
-## What is a typical study like? 
+### What is a typical study like? 
 
 We conduct two kinds of studies:
 
@@ -19,17 +19,17 @@ In our in-home observational studies, we send home audio and/or video recording 
 
 In our in-lab experimental studies, you would come in with your child to participate in an experiment in the lab. These experiments are simple, safe, and fun. Most children really enjoy them! These experiments usually involve watching a movie, or listening to an audio recording, and measuring what the child finds interesting. The studies might involve playing a short iPad game, reading a book in the lab, or naming pictures they see in a book or on the screen.
 
-## What do we do with the data?
+### What do we do with the data?
 
 The results from our studies are typically first presented at professional scientific conferences (with no information identifying individual children) and then reported in a scientific journal. We are also always glad to provide a summary of the results for participating families! We take the strictest care with data to ensure your privacy is protected.
 
-## How can I participate?
+### How can I participate?
 
 If you would like to participate in one of our studies, click on the studies listed under "Active Studies" at the top of this page. We would be very happy to hear from you!
 
 An appointment can be made to suit your schedule (mornings, afternoons, or evenings). Free parking, toys to play with and baby-sitting for siblings are all provided at the lab. Every child who participates can choose a prize to take home – our way of saying thanks.
 
-## How do I get to the Learning and Language Lab?
+### How do I get to the Learning and Language Lab?
 
 We are located in Room 490 of the Psychology Building on the University of Illinois at Urbana-Champaign. The address is:
 603 E. Daniel Street
