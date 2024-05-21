@@ -5,8 +5,6 @@ layout = "single-para"
 
 ---
 
-## Adolescent Reading Study
-
 Interested in participating in reading and language development research?
 The Learning and Language Lab @ University of Illinois at Urbana-Champaign
 
