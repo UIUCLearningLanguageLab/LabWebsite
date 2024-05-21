@@ -7,8 +7,6 @@ layout = "single-para"
 
 ## Peer-reviewed Papers
 
-Stoops, A. & Montag, J. L. (2023). Effects of individual differences in text exposure on sentence comprehension. Scientific Reports, 13, 16812.
-
 Mao, S., Huebner, P., & Willits, J. A. (2023). Spatial vs. graphical representation of Distributional semantic knowledge. Psychological Review, in press. [pdf](../pubs/maohuebnerwillits2023.pdf)
 
 Flores, A. Z., Montag, J. L., & Willits, J. A. (2023). Using known words to learn more words: A distributional model of child vocabulary acquisition. Journal of Memory and Language, 132, 104446. [pdf](../pubs/floresmontagwillits2023.pdf)

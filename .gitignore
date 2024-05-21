@@ -105,3 +105,4 @@ venv.bak/
 # PH
 .idea/
 lab_website/
+/.hugo_build.lock
