@@ -1,48 +1,27 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>/about/</loc>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>/adolescent_reading_study/</loc>
+  </url><url>
     <loc>/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/join/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/members/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/participate/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publications/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tools&#43;data/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/topics/</loc>
   </url>
-  
 </urlset>

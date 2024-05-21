@@ -1,15 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>L&amp;L Lab</title>
     <link>/</link>
     <description>Recent content on L&amp;L Lab</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About our Lab</title>
       <link>/about/</link>
@@ -17,6 +13,16 @@
       
       <guid>/about/</guid>
       <description>How do we learn and use language? Computational Modeling The goal of our research is to better understand the mechanisms underlying the mastery of linguistic knowledge. Recent advances in our ability to study large, naturalistic datasets, combined with advanced computational modeling techniques, have allowed us to ask questions that were not possible just years before. One of the major insights from our work is that “Big Data” research that investigates the structure of experience – such as investigations of giant corpora of naturalistic speech – will force us to radically re-evaluate certain theories of learning and representation.</description>
+    </item>
+    
+    <item>
+      <title>Adolescent Reading Study</title>
+      <link>/adolescent_reading_study/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/adolescent_reading_study/</guid>
+      <description>Adolescent Reading Study Interested in participating in reading and language development research? The Learning and Language Lab @ University of Illinois at Urbana-Champaign
+Who: Adolescents (14 to 17 years old) who speak English at home. What’s involved: Come to the lab on the U of I campus for several studies ranging from 1 to 2 hours. What will you do: You will read passages of text and individual sentences and answer comprehension questions about them on a computer.</description>
     </item>
     
     <item>
@@ -50,7 +56,8 @@ Jon Willits studies language and learning in infants, children, adults, and mach
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/participate/</guid>
-      <description>Volunteers Needed for Our Research! If you have a child between about 6 months and 6 years old, we&amp;rsquo;d be thrilled if you and your child would participate in our studies of learning and language. Children are learning vast amounts of information from the earliest moments. We study how children learn language and other kinds of knowledge, including what words mean, how to talk and understand language, and how to read.</description>
+      <description>Active Studies Adolescent Reading Study
+Volunteers Needed for Our Research! If you have a child between about 6 months and 6 years old, we&amp;rsquo;d be thrilled if you and your child would participate in our studies of learning and language. Children are learning vast amounts of information from the earliest moments. We study how children learn language and other kinds of knowledge, including what words mean, how to talk and understand language, and how to read.</description>
     </item>
     
     <item>
@@ -59,9 +66,9 @@ Jon Willits studies language and learning in infants, children, adults, and mach
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/publications/</guid>
-      <description>Peer-reviewed Papers Huebner, P., Willits, J. (2021). Scaffolded input promotes atomic organization in the recurrent neural network language model. Proceedings of CONLL 2021. pdf
-Huebner, P., Sulem, E., Fisher, C., Roth, D. (2021). BabyBERTa: Learning More Grammar With Small-Scale Child-Directed Language. Proceedings of CONLL 2021. pdf
-Huebner, P., Willits, J. (2021). Using lexical context to discover the noun category: Younger children have it easier. Psychology of Learning and Motivation, 75.</description>
+      <description>Peer-reviewed Papers Stoops, A. &amp;amp; Montag, J. L. (2023). Effects of individual differences in text exposure on sentence comprehension. Scientific Reports, 13, 16812.
+Mao, S., Huebner, P., &amp;amp; Willits, J. A. (2023). Spatial vs. graphical representation of Distributional semantic knowledge. Psychological Review, in press. pdf
+Flores, A. Z., Montag, J. L., &amp;amp; Willits, J. A. (2023). Using known words to learn more words: A distributional model of child vocabulary acquisition.</description>
     </item>
     
     <item>
@@ -84,8 +91,8 @@ Natural Language Data AO-CHILDES To create a custom text corpus of American-Engl
       
       <guid>/topics/</guid>
       <description>A brief overview of the topics we study in our lab.
-Language Production  Testing theories regarding how the structure of message-level representations build speech.  Language Acquisition  Studying how children acquire language via quantitative and qualitative analyses of language exposure.  Computational Modeling  Building computational models of semantic development and memory.  Schizophrenia  Measuring disorganized speech and semantic cohesion in speech of schizophrenic patients.
- Developing automated language evaluation to help researchers better understand speech pathology.</description>
+Language Production Testing theories regarding how the structure of message-level representations build speech. Language Acquisition Studying how children acquire language via quantitative and qualitative analyses of language exposure. Computational Modeling Building computational models of semantic development and memory. Schizophrenia Measuring disorganized speech and semantic cohesion in speech of schizophrenic patients.
+Developing automated language evaluation to help researchers better understand speech pathology.</description>
     </item>
     
   </channel>

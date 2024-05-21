@@ -4,7 +4,7 @@ title = "L&L Lab"
 languageCode = "en-us"
 theme = "foundation-theme"
 enableRobotsTXT = true
-SectionPagesMenu = ["main", "social"]
+SectionPagesMenu = "main"
 publishDir = "built_by_hugo"
 
 [params.meta]
