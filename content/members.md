@@ -145,9 +145,15 @@ __Email:__ snk6@illinois.edu
 
 ## Lab Alumni
 
-<p>Philip Huebner (PhD 2022)<br>
-Lin Khern Chia (PhD 2023)<br>
-Emily Mech (PhD 2023)<br>
-Shufan Mao (PhD 2024)<br>
-Andrew Flores (PhD 2025)<br>
-Katherine Koch (Lab Manager)<br></p>
+Philip Huebner (PhD 2022)
+
+Lin Khern Chia (PhD 2023)
+
+Emily Mech (PhD 2023)
+
+Shufan Mao (PhD 2024)
+
+Andrew Flores (PhD 2025)
+
+Katherine Koch (Lab Manager)
+
