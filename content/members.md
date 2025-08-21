@@ -47,7 +47,7 @@ Anastasia Stoops studies how people learn and use language over the lifespan in 
 ---
 
 ## Graduate Students
-
+<!--
 ### Philip Huebner
 
 <img src="../img/phil.jpg" alt="Philip" width="200"/>
@@ -61,6 +61,7 @@ __Personal Website:__ https://philhuebner.com
 Philip Huebner studies computational models of language acquisition,
  and in particular RNN and Transformer-based language models.
 	
+
 
 ### Andrew Flores
 
@@ -101,7 +102,7 @@ Emily Mech utilizes event-related potentials (ERPs), computational modeling, and
 __Email:__ smao9@illinois.edu
 
 Shufan Mao is interested in representation of semantics, concept, and meanings. He is working on a distributional representation of concept and semantics using a network model which integrates distributional semantics, formal semantics and network science.
-
+-->
 
 ### Zeynep Marasli
 
@@ -121,20 +122,33 @@ __Github:__ https://github.com/cracrazjf
 
 ### Maily Galindo
 
-TEST TEST
-write some text here.
-
 __Email:__ mailyg2@illinois.edu
 
 ---
+### Rojda Ozcan
 
-## Lab Management
 
-### Katherine Koch 
-__Email:__ kmkoch3@illinois.edu
+__Email:__ rozcan2@illinois.edu
+
+
+### Silvia E
+
+
+__Email:__ sylviae2@illinois.edu
+
+### Samarium Knight
+
+
+__Email:__ snk6@illinois.edu
+
+
+---
 
 ## Lab Alumni
 
-### Names Here
-
-
+### Philip Huebner (PhD 2022)
+### Lin Khern Chia (PhD 2023)
+### Emily Mech (PhD 2023)
+### Shufan Mao (PhD 2024)
+### Andrew Flores (PhD 2025)
+### Katherine Koch (Lab Manager)
