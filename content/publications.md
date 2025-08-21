@@ -7,7 +7,17 @@ layout = "single-para"
 
 ## Peer-reviewed Papers
 
-Stoops, A. A. & Montag, J. L. (2024). The Stoops-Montag picture book reading corpus. Available on CHILDES online repository. doi:10.21415/2RD6-0H36
+Marasli, Z. B. & Montag, J. L. (submitted). Simulation and evaluation of sampling methods for daylong audio data
+
+Galindo, M. & Montag, J. L. (submitted). The role of siblings on infant language exposure in daylong audio recordings. 
+
+Montag, J. L., Marasli, Z. B. & Koch, K. M., (2025, June 12). Theoretical and methodological insights from five transcribed and annotated daylong audio recordings of young children’s language environments. https://doi.org/10.31219/osf.io/9u7hx_v1
+
+Mao, S., Huebner, P., & Willits, J. (2025). Success and failure of compositional generalisation in distributional models of language. Language, Cognition and Neuroscience, 40(3), 413-441.
+
+Patel, T. N., Marasli, Z. B., Choi, A. & Montag, J. L. (2025). An online survey of picture book reading practices with children between the ages of 0 and 30 months. Language Learning and Development, 21(1), 74-100.
+
+Stoops, A., Wu, M., Jung, I., & Montag, J. L. (2024). A novel corpus of naturalistic picture book reading with 2-3 year old children. Language Development Research, 4, 259-297. 
 
 Stoops, A. & Montag, J. L. (2023). Effects of individual differences in text exposure on sentence comprehension. Scientific Reports, 13, 16812.
 
@@ -60,6 +70,9 @@ Willits, J. A., Seidenberg, M. S., & Saffran, J. R. (2014). Statistical structur
 Willits, J. A., Wojcik, E. H., Seidenberg, M. S., & Saffran, J. R. (2013). Toddlers activate lexical semantic knowledge in the absence of visual referents: evidence from auditory priming. Infancy, 18, 1053-1075.
 
 ## Refereed Conference Papers
+Marasli, Z. B. & Montag, J. L. (2025). The applications and limitations of the burstiness metric in investigating the temporal distribution of words in child-centered Audio. Proceedings of the 44th Annual Conference of the Cognitive Science (pp. XX-XX). San Francisco: CA: Cognitive Science Society.
+
+Galindo, M. & Montag, J. L. (2025). The role of siblings on infant language exposure in daylong audio recordings. Proceedings of the 44th Annual Conference of the Cognitive Science Society (pp. XX-XX). San Francisco: CA: Cognitive Science Society.
 
 Marasli, Z. B. & Montag, J. L. (2023). Optimizing random time sampling of daylong audio. Proceedings of the 42nd Annual Conference of the Cognitive Science Society (pp. 87-94). Sydney, NSW, Australia: Cognitive Science Society.
 
