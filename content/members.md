@@ -10,7 +10,7 @@ layout = "single-para"
 
 ### Dr. Jessica L. Montag
 
-<img alt="Jessica" height="200" src="../img/jessica.jpg"/>
+<img src="../img/jessica.jpg" alt="Jessica" >
 
 __Email:__ jmontag@illinois.edu
 
