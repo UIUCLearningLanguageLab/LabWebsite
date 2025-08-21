@@ -7,13 +7,13 @@ layout = "single-para"
 
 A brief overview of the topics we study in our lab.
 
-### Language Production
+### Language Production and Comprehension
 
-- Testing theories regarding how the structure of message-level representations build speech.
+- Understanding the processes and knowledge that allow children and adults to produce and comprehend language
 
 ### Language Acquisition
 
-- Studying how children acquire language via quantitative and qualitative analyses of language exposure.
+- Studying how children learn language, including analyses of language exposure.
 
 ### Computational Modeling
 
